@@ -1,0 +1,30 @@
+{
+  "best_model": "XGBoost",
+  "results": {
+    "Linear Regression": {
+      "cv_mae": 1.936,
+      "test_mae": 1.908,
+      "test_rmse": 2.514,
+      "test_r2": 0.744
+    },
+    "Random Forest": {
+      "cv_mae": 1.6,
+      "test_mae": 1.313,
+      "test_rmse": 1.92,
+      "test_r2": 0.851
+    },
+    "XGBoost": {
+      "cv_mae": 1.579,
+      "test_mae": 1.073,
+      "test_rmse": 1.651,
+      "test_r2": 0.89
+    }
+  },
+  "significance": {
+    "best": "XGBoost",
+    "vs": "Random Forest",
+    "paired_t_test_p": 0.83
+  },
+  "baseline_mae": 4.164,
+  "n_rows": 546
+}

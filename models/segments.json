@@ -1,0 +1,57 @@
+{
+  "best_k": 5,
+  "silhouette": {
+    "3": 0.38376808254840794,
+    "4": 0.39141782282091425,
+    "5": 0.40355609619171706,
+    "6": 0.3575215793289084,
+    "7": 0.3539256041511451
+  },
+  "summary": [
+    {
+      "segment": "Everyday",
+      "horsepower": 137.5,
+      "torque_nm": 210.0,
+      "top_speed_kmh": 180.0,
+      "zero_to_100_s": 10.3,
+      "price_usd": 25000.0,
+      "count": 424
+    },
+    {
+      "segment": "Premium",
+      "horsepower": 300.0,
+      "torque_nm": 400.0,
+      "top_speed_kmh": 210.0,
+      "zero_to_100_s": 6.5,
+      "price_usd": 48000.0,
+      "count": 552
+    },
+    {
+      "segment": "Heavy-duty",
+      "horsepower": 500.0,
+      "torque_nm": 2450.0,
+      "top_speed_kmh": 110.0,
+      "zero_to_100_s": 16.25,
+      "price_usd": 115000.0,
+      "count": 8
+    },
+    {
+      "segment": "Sports & Luxury",
+      "horsepower": 572.0,
+      "torque_nm": 709.0,
+      "top_speed_kmh": 296.0,
+      "zero_to_100_s": 3.6,
+      "price_usd": 183500.0,
+      "count": 210
+    },
+    {
+      "segment": "Hypercar",
+      "horsepower": 1500.0,
+      "torque_nm": 1600.0,
+      "top_speed_kmh": 420.0,
+      "zero_to_100_s": 2.4,
+      "price_usd": 3500000.0,
+      "count": 11
+    }
+  ]
+}
