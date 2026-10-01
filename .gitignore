@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+# Trained models are rebuilt by `python -m src.train` (or automatically on first app run)
+models/*.joblib
+.streamlit/secrets.toml
+.DS_Store
