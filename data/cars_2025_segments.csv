@@ -1,0 +1,1206 @@
+make,model,fuel_type,horsepower,torque_nm,top_speed_kmh,zero_to_100_s,price_usd,segment_id,segment
+FERRARI,SF90 STRADALE,plug in hyrbrid,963.0,800.0,340.0,2.5,1100000.0,1,Sports & Luxury
+ROLLS ROYCE,PHANTOM,Petrol,563.0,900.0,250.0,5.3,460000.0,1,Sports & Luxury
+Ford,KA+,Petrol,85.0,140.0,165.0,10.5,15000.0,0,Everyday
+MERCEDES, GT 63 S,Petrol,630.0,900.0,250.0,3.2,161000.0,1,Sports & Luxury
+AUDI,AUDI R8 Gt,Petrol,602.0,560.0,320.0,3.6,253290.0,1,Sports & Luxury
+BMW,Mclaren 720s,Petrol,710.0,770.0,341.0,2.9,499000.0,1,Sports & Luxury
+ASTON MARTIN,VANTAGE F1,Petrol,656.0,685.0,314.0,3.6,193440.0,1,Sports & Luxury
+BENTLEY,Continental GT Azure,Petrol,550.0,900.0,318.0,4.0,311000.0,1,Sports & Luxury
+LAMBORGHINI,VENENO ROADSTER,Petrol,750.0,690.0,356.0,2.9,4500000.0,1,Sports & Luxury
+FERRARI,F8 TRIBUTO,Petrol,710.0,770.0,340.0,2.9,280000.0,1,Sports & Luxury
+FERRARI,812 GTS,Petrol,789.0,718.0,340.0,2.9,350000.0,1,Sports & Luxury
+FERRARI,PORTOFINO,Petrol,592.0,760.0,320.0,3.2,210000.0,1,Sports & Luxury
+FERRARI,ROMA,Petrol,612.0,760.0,320.0,3.4,230000.0,1,Sports & Luxury
+FERRARI,MONZA SP2,Petrol,789.0,719.0,340.0,2.9,1700000.0,1,Sports & Luxury
+FERRARI,F8 SPIDER,Petrol,710.0,770.0,340.0,2.9,280000.0,1,Sports & Luxury
+FERRARI,PORTOFINO M,Petrol,612.0,760.0,320.0,3.2,220000.0,1,Sports & Luxury
+FERRARI,ROMA SPIDER,Petrol,612.0,760.0,320.0,3.4,240000.0,1,Sports & Luxury
+TOYOTA,GR SUPRA,Petrol,382.0,500.0,250.0,4.1,53900.0,2,Premium
+TOYOTA,TOYOTA 86,Petrol,205.0,205.0,226.0,6.4,27000.0,2,Premium
+TOYOTA,TOYOTA  GR86,Petrol,228.0,250.0,226.0,5.6,30000.0,2,Premium
+TOYOTA,TOYOTA LAND CRUISER,Diesel,381.0,500.0,220.0,6.7,85000.0,2,Premium
+TOYOTA,TOYOTA SEQUOIA,Petrol,381.0,651.0,200.0,6.9,50000.0,2,Premium
+NISSAN,GT-R,Petrol,600.0,637.0,315.0,2.9,113000.0,1,Sports & Luxury
+NISSAN,370Z,Petrol,332.0,366.0,250.0,4.7,30000.0,2,Premium
+NISSAN,Z PROTO,Petrol,400.0,475.0,290.0,4.1,40000.0,2,Premium
+NISSAN,ALTIMA,Petrol,188.0,380.0,225.0,7.3,25000.0,2,Premium
+NISSAN,MAXIMA,Petrol,300.0,354.0,240.0,5.8,35000.0,2,Premium
+NISSAN,SENTRA,Petrol,149.0,240.0,200.0,8.2,20000.0,0,Everyday
+NISSAN,ROGUE,Petrol,201.0,270.0,200.0,7.5,28000.0,2,Premium
+NISSAN,PATHFINDER,Petrol,284.0,351.0,225.0,6.5,35000.0,2,Premium
+NISSAN,FRONTIER,Petrol,310.0,381.0,180.0,6.8,30000.0,2,Premium
+NISSAN,TITAN,Petrol,400.0,560.0,200.0,5.9,40000.0,2,Premium
+ASTON MARTIN,VALKYRIE,Hybrid,1160.0,900.0,402.0,2.5,3200000.0,4,Hypercar
+ASTON MARTIN,VALHALLA,Hybrid,1000.0,1000.0,362.0,2.5,1100000.0,1,Sports & Luxury
+ASTON MARTIN,DBS SUPERLEGGERA,Petrol,715.0,900.0,340.0,3.4,316000.0,1,Sports & Luxury
+ASTON MARTIN,DB11,Petrol,600.0,700.0,322.0,3.9,208000.0,1,Sports & Luxury
+ASTON MARTIN,VANTAGE ,Petrol,503.0,685.0,313.0,3.6,142000.0,1,Sports & Luxury
+ASTON MARTIN,DBX,Petrol,542.0,700.0,291.0,4.5,189000.0,1,Sports & Luxury
+ASTON MARTIN,RAPIDE AMR,Petrol,580.0,630.0,328.0,4.2,240000.0,1,Sports & Luxury
+ASTON MARTIN,VANQUISH,Petrol,580.0,630.0,324.0,3.6,294000.0,1,Sports & Luxury
+ASTON MARTIN,LAGONDA TARAF,Petrol,540.0,630.0,314.0,4.2,1100000.0,1,Sports & Luxury
+ASTON MARTIN,VICTOR,Petrol,836.0,821.0,320.0,2.8,1300000.0,1,Sports & Luxury
+LAMBORGHINI,SIAN,Hybrid,819.0,720.0,350.0,2.8,2800000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR SVJ,Petrol,759.0,720.0,350.0,2.8,518000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN PERFORMANTE,Petrol,640.0,600.0,325.0,2.9,274000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN EVO,Petrol,640.0,600.0,325.0,2.9,261000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR SV,Petrol,740.0,690.0,350.0,2.8,493000.0,1,Sports & Luxury
+LAMBORGHINI,URUS ,Petrol,641.0,850.0,305.0,3.6,211000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN SPYDER,Petrol,610.0,600.0,325.0,3.4,287000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR ROADSTER,Petrol,700.0,690.0,350.0,3.0,445000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN  PERFORMANTE SPYDER,Petrol,640.0,600.0,325.0,3.1,308000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR S,Petrol,740.0,690.0,350.0,2.9,421000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN EVO SPYDER,Petrol,640.0,600.0,325.0,3.1,287000.0,1,Sports & Luxury
+LAMBORGHINI,URUS PERFORMANTE,Petrol,641.0,850.0,305.0,3.3,242000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR ULTIMAE,Petrol,769.0,720.0,355.0,2.8,545000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN EVO RWD,Petrol,610.0,560.0,325.0,3.3,258000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR SVJ ROADSTER,Petrol,759.0,720.0,350.0,2.9,573000.0,1,Sports & Luxury
+LAMBORGHINI,URUS S,Petrol,671.0,850.0,305.0,3.3,263000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN STO,Petrol,640.0,565.0,325.0,3.0,327000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR LP 780-4 ULTIMATE,Petrol,769.0,720.0,355.0,2.8,545000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN EVO RWD SPYDER,Petrol,610.0,600.0,325.0,3.3,273000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR SVJ XAGO,Petrol,759.0,720.0,350.0,2.9,603000.0,1,Sports & Luxury
+LAMBORGHINI,URUS GRAPHITE CAPSULE,Petrol,641.0,850.0,305.0,3.3,253000.0,1,Sports & Luxury
+LAMBORGHINI,HURACAN STO EVO,Petrol,640.0,565.0,325.0,3.0,342000.0,1,Sports & Luxury
+LAMBORGHINI,AVENTADOR LP 780-4 ULTIMATE ROADSTER,Petrol,769.0,720.0,355.0,2.8,573000.0,1,Sports & Luxury
+ROLLS ROYCE ,GHOST,Petrol,591.0,850.0,250.0,4.8,332000.0,1,Sports & Luxury
+ROLLS ROYCE,WRAITH,Petrol,624.0,870.0,250.0,4.4,330000.0,1,Sports & Luxury
+ROLLS ROYCE,DAWN,Petrol,624.0,870.0,250.0,4.9,360000.0,1,Sports & Luxury
+ROLLS ROYCE,CULLINAN,Petrol,563.0,850.0,250.0,5.2,325000.0,1,Sports & Luxury
+ROLLS ROYCE,PHANTOM EXTENDED,Petrol,563.0,900.0,250.0,5.3,500000.0,1,Sports & Luxury
+ROLLS ROYCE,GHOST EXTENDED,Petrol,591.0,850.0,250.0,4.8,370000.0,1,Sports & Luxury
+ROLLS ROYCE,WRAITH BLACK BADGE,Petrol,624.0,870.0,250.0,4.3,360000.0,1,Sports & Luxury
+ROLLS ROYCE,DAWN BLACK BADGE,Petrol,624.0,870.0,250.0,4.8,390000.0,1,Sports & Luxury
+ROLLS ROYCE,CULLINAN BLACK BADGE,Petrol,563.0,850.0,250.0,5.1,350000.0,1,Sports & Luxury
+ROLLS ROYCE,PHANTOM COUPE,Petrol,563.0,870.0,250.0,5.3,450000.0,1,Sports & Luxury
+ROLLS ROYCE,GHOST COUPE,Petrol,591.0,850.0,250.0,4.8,340000.0,1,Sports & Luxury
+ROLLS ROYCE,WRAITH COUPE,Petrol,624.0,870.0,250.0,4.4,330000.0,1,Sports & Luxury
+ROLLS ROYCE,DAWN CONVERTIBLE,Petrol,624.0,870.0,250.0,4.9,380000.0,1,Sports & Luxury
+ROLLS ROYCE,CULLINAN SUV,Petrol,563.0,850.0,250.0,5.2,320000.0,1,Sports & Luxury
+MERCEDES,BENZ S-CLASS S 580,Petrol,496.0,700.0,250.0,4.4,116000.0,1,Sports & Luxury
+MERCEDES,BENZ E-CLASS E 63 S,Petrol,603.0,850.0,250.0,3.4,104000.0,1,Sports & Luxury
+MERCEDES,BENZ CLA 45 AMG,Petrol,382.0,500.0,250.0,4.1,53000.0,2,Premium
+MERCEDES,BENZ GLE 63 S,Petrol,603.0,850.0,250.0,4.2,113000.0,1,Sports & Luxury
+MERCEDES,BENZ S-CLASS S 500,Petrol,429.0,700.0,250.0,4.9,109000.0,1,Sports & Luxury
+MERCEDES,BENZ E-CLASS E 450 ,Petrol,362.0,500.0,250.0,5.2,62000.0,2,Premium
+MERCEDES,BENZ CLS 450,Petrol,362.0,500.0,250.0,5.2,70000.0,2,Premium
+MERCEDES,BENZ GT 53,Petrol,429.0,700.0,250.0,4.5,99000.0,1,Sports & Luxury
+MERCEDES,BENZ GLE 450,Petrol,362.0,500.0,250.0,5.5,63000.0,2,Premium
+MERCEDES,BENZ A-CLASS A 45 S,Petrol,416.0,500.0,250.0,3.9,53000.0,2,Premium
+MERCEDES,BENZ C-CLASS C 43,Petrol,402.0,520.0,250.0,4.7,52000.0,2,Premium
+MERCEDES,BENZ E-CLASS E 350,Petrol,255.0,500.0,250.0,5.7,49000.0,2,Premium
+MERCEDES,BENZ GLE 350 ,Petrol,255.0,500.0,250.0,6.1,53000.0,2,Premium
+MERCEDES,BENZ GLC 43,Petrol,402.0,520.0,250.0,4.7,54000.0,2,Premium
+MERCEDES,BENZ GLA 45,Petrol,382.0,500.0,250.0,4.3,48000.0,2,Premium
+MERCEDES,BENZ GLC 350 ,Petrol,255.0,500.0,250.0,6.1,46000.0,2,Premium
+MERCEDES,BENZ GLE 53,Petrol,429.0,620.0,250.0,5.2,71000.0,2,Premium
+MERCEDES,BENZ S-CLASS S 350,Petrol,255.0,500.0,250.0,6.5,90000.0,2,Premium
+MERCEDES,BENZ EQS 53,Electric,751.0,950.0,250.0,3.4,102000.0,1,Sports & Luxury
+MERCEDES,BENZ MAYBACH S 680,Petrol,630.0,1000.0,250.0,4.7,200000.0,1,Sports & Luxury
+BMW,M5 CS,Petrol,627.0,750.0,305.0,3.0,142000.0,1,Sports & Luxury
+BMW,M4 GTS,Petrol,493.0,600.0,305.0,3.7,133000.0,1,Sports & Luxury
+BMW,M3 COMPETITION,Petrol,503.0,650.0,285.0,3.5,76000.0,1,Sports & Luxury
+BMW,M2 CS,Petrol,444.0,550.0,280.0,4.0,83000.0,1,Sports & Luxury
+BMW,X5 M COMPETITION,Petrol,523.0,750.0,285.0,4.1,114000.0,1,Sports & Luxury
+BMW,X3 M COMPETITION,Petrol,503.0,650.0,285.0,4.1,69000.0,1,Sports & Luxury
+BMW,M8 GRAN COUPE,Petrol,523.0,750.0,305.0,3.3,146000.0,1,Sports & Luxury
+BMW,M850i DRIVE COUPE,Petrol,523.0,750.0,285.0,3.7,108000.0,1,Sports & Luxury
+ROLLS ROYCE,DAWN BLACK BADGE VOLANTE,Petrol,563.0,840.0,250.0,4.8,398000.0,1,Sports & Luxury
+ROLLS ROYCE,CULLINAN BLACK BADGE SUV,Petrol,563.0,850.0,250.0,5.1,381000.0,1,Sports & Luxury
+ROLLS ROYCE,PHATOM TRANQUILITY,Petrol,563.0,900.0,250.0,5.3,475000.0,1,Sports & Luxury
+ROLLS ROYCE,GHOST ZENITH,Petrol,563.0,900.0,250.0,4.9,335000.0,1,Sports & Luxury
+ROLLS ROYCE,WRAITH EAGLE VIII,Petrol,623.0,800.0,250.0,4.5,349000.0,1,Sports & Luxury
+ROLLS ROYCE,PHATOM ORCHID,Petrol,563.0,900.0,250.0,5.3,495000.0,1,Sports & Luxury
+ROLLS ROYCE,GHOST AZURE,Petrol,563.0,900.0,250.0,4.9,355000.0,1,Sports & Luxury
+ROLLS ROYCE,WRAITH KRYPTOS,Petrol,623.0,800.0,250.0,4.5,369000.0,1,Sports & Luxury
+ROLLS ROYCE,DAWN SILVER BULLET,Petrol,563.0,840.0,250.0,4.8,418000.0,1,Sports & Luxury
+ROLLS ROYCE,CULLINAN FUX ORANGE,Petrol,563.0,850.0,250.0,5.1,401000.0,1,Sports & Luxury
+ROLLS ROYCE,PHANTOM CELESTIAL,Petrol,563.0,900.0,250.0,5.3,515000.0,1,Sports & Luxury
+ROLLS ROYCE,GHOST MYSORE,Petrol,563.0,900.0,250.0,4.9,375000.0,1,Sports & Luxury
+ROLLS ROYCE,WRAITH LUMINARY,Petrol,623.0,800.0,250.0,4.5,389000.0,1,Sports & Luxury
+ROLLS ROYCE,DAWN BLACK BADGE ADAMAS,Petrol,563.0,840.0,250.0,4.8,439000.0,1,Sports & Luxury
+ROLLS ROYCE,CULLINAN RED DIAMOND,Petrol,563.0,850.0,250.0,5.1,421000.0,1,Sports & Luxury
+AUDI,R8 V10 PLUS,Petrol,610.0,560.0,330.0,3.2,194000.0,1,Sports & Luxury
+AUDI,RS7 SPORTBACK,Petrol,591.0,800.0,305.0,3.6,114000.0,1,Sports & Luxury
+AUDI,S8,Petrol,563.0,800.0,305.0,4.3,101000.0,1,Sports & Luxury
+AUDI,RS6 AVANT,Petrol,591.0,800.0,305.0,3.6,109000.0,1,Sports & Luxury
+AUDI,S7 SPORTBACK,Petrol,563.0,650.0,305.0,4.3,96000.0,1,Sports & Luxury
+AUDI,A8,Petrol,335.0,600.0,250.0,5.7,86000.0,2,Premium
+AUDI,S5 COUPE,Petrol,349.0,500.0,250.0,4.8,64000.0,2,Premium
+AUDI,SQ5,Petrol,349.0,500.0,250.0,5.4,62000.0,2,Premium
+AUDI,S4 SEDAN,Petrol,349.0,500.0,250.0,4.7,59000.0,2,Premium
+AUDI,S3 SEDAN,Petrol,306.0,400.0,250.0,4.8,52000.0,2,Premium
+AUDI,Q7,Petrol,335.0,600.0,250.0,6.3,60000.0,2,Premium
+AUDI,Q5,Petrol,248.0,500.0,240.0,6.3,43000.0,2,Premium
+AUDI,A7,Petrol,335.0,600.0,250.0,5.7,68000.0,2,Premium
+AUDI,A6,Petrol,335.0,600.0,250.0,5.7,58000.0,2,Premium
+AUDI,A5 COUPE,Petrol,248.0,500.0,240.0,6.3,45000.0,2,Premium
+AUDI,A4,Petrol,248.0,400.0,240.0,6.5,39000.0,2,Premium
+AUDI,Q3,Petrol,248.0,400.0,230.0,7.3,35000.0,2,Premium
+AUDI,E-TRON,Electric,402.0,664.0,200.0,5.5,75000.0,2,Premium
+AUDI,E-TRON SPORTBACK,Electric,402.0,664.0,200.0,5.5,78000.0,2,Premium
+AUDI,TT COUPE,Petrol,248.0,400.0,250.0,5.3,49000.0,2,Premium
+BMW,I8 ROADSTER,Hybrid,369.0,570.0,250.0,4.4,165000.0,1,Sports & Luxury
+BMW,330i,Petrol,255.0,400.0,250.0,5.6,45000.0,2,Premium
+BMW,M340i XDRIVE,Petrol,382.0,500.0,250.0,4.1,57000.0,2,Premium
+BMW,430i COUPE,Petrol,255.0,400.0,250.0,5.8,48000.0,2,Premium
+BMW,M4 COMPETITION,Petrol,503.0,650.0,290.0,3.8,81000.0,1,Sports & Luxury
+BMW,530i,Petrol,248.0,400.0,250.0,5.9,57000.0,2,Premium
+BMW,M550i XDRIVE,Petrol,523.0,650.0,250.0,3.6,78000.0,1,Sports & Luxury
+BMW,118i,Petrol,136.0,220.0,213.0,8.5,32000.0,0,Everyday
+BMW,128ti,Petrol,261.0,400.0,250.0,6.1,42000.0,2,Premium
+BMW,M135i XDRIVE,Petrol,302.0,450.0,250.0,4.8,30000.0,2,Premium
+BMW,116D,Diesel,116.0,280.0,200.0,10.3,30000.0,0,Everyday
+BMW,120D XDRIVE,Diesel,190.0,400.0,230.0,6.9,38000.0,2,Premium
+BMW,116i,Petrol,109.0,200.0,200.0,10.9,28000.0,0,Everyday
+BMW,118D,Diesel,150.0,380.0,216.0,8.4,34000.0,2,Premium
+BMW,120i,Petrol,178.0,300.0,230.0,7.1,37000.0,2,Premium
+BMW,125i,Petrol,224.0,400.0,240.0,6.1,42000.0,2,Premium
+BMW,114D,Diesel,95.0,270.0,185.0,12.2,27000.0,0,Everyday
+BMW,114i,Petrol,102.0,200.0,195.0,11.2,26000.0,0,Everyday
+BMW,125D,Diesel,224.0,400.0,240.0,6.3,44000.0,2,Premium
+BMW,118i XDRIVE,Petrol,136.0,250.0,211.0,8.9,34000.0,0,Everyday
+BMW,116D EFFICIENTDYNAMICS,Diesel,116.0,270.0,200.0,10.9,30000.0,0,Everyday
+BMW,118i SPORTLINE,Petrol,136.0,250.0,213.0,8.5,35000.0,0,Everyday
+BMW,118i M SPORT,Petrol,136.0,250.0,213.0,8.5,37000.0,0,Everyday
+BMW,120i M SPORT,Petrol,178.0,300.0,230.0,7.1,39000.0,2,Premium
+BMW,116i EFFICIENTDYNAMICS,Petrol,109.0,200.0,195.0,10.9,29000.0,0,Everyday
+BMW,116D ADVANTAGE,Diesel,116.0,270.0,200.0,10.5,31000.0,0,Everyday
+BMW,120D EFFICIENTDYNAMICS,Diesel,163.0,400.0,225.0,7.7,39000.0,2,Premium
+BMW,118i SHADOW LINE,Petrol,136.0,250.0,213.0,8.5,36000.0,0,Everyday
+BMW,118D SPORT LINE,Diesel,150.0,380.0,216.0,8.4,36000.0,2,Premium
+BMW,120i XDRIVE,Petrol,178.0,300.0,230.0,7.2,40000.0,2,Premium
+BMW,114D SPORT LINE,Diesel,95.0,270.0,185.0,12.2,28000.0,0,Everyday
+BMW,118i URBAN LINE,Petrol,136.0,250.0,213.0,8.5,35000.0,0,Everyday
+VOLVO,XC90,Petrol/Diesel,247.0,400.0,200.0,6.5,60000.0,2,Premium
+VOLVO,XC60,Petrol/Diesel,247.0,400.0,220.0,6.4,55000.0,2,Premium
+VOLVO,S90,Petrol/Diesel,295.0,400.0,250.0,5.9,60000.0,2,Premium
+KIA,SPORTAGE LX,Petrol,187.0,250.0,200.0,8.0,27000.0,0,Everyday
+KIA,SPORTAGE EX,Petrol,187.0,250.0,200.0,8.0,30000.0,0,Everyday
+KIA,SPORTAGE GT-LINE,Petrol,187.0,350.0,200.0,8.0,32000.0,2,Premium
+KIA,SPORTAGE SX TURBO,Petrol,240.0,400.0,210.0,6.7,36000.0,2,Premium
+KIA,SPORTAGE NIGHTFALL EDITION,Petrol,187.0,350.0,200.0,8.0,33000.0,2,Premium
+HONDA,CIVIC TYPE R,Petrol,315.0,400.0,272.0,5.7,44000.0,2,Premium
+KIA,SPORTAGE PHEV,Plug-in Hybrid,261.0,350.0,180.0,8.0,41000.0,2,Premium
+KIA,SPORTAGE 2024(BASE MODEL),Petrol,187.0,250.0,200.0,8.0,26000.0,0,Everyday
+KIA,SPORTAGE 2024(TOP TRIM),Petrol,240.0,400.0,210.0,6.7,38000.0,2,Premium
+KIA,SPORTAGE 2024(BASE AWD),Petrol/AWD,187.0,250.0,200.0,8.3,29000.0,0,Everyday
+KIA,SPORTAGE X-LINE,Petrol,187.0,350.0,200.0,8.0,32500.0,2,Premium
+KIA,SPORTAGE 2024(S TRIM),Petrol,187.0,250.0,200.0,8.2,28000.0,0,Everyday
+HONDA,ACCORD,Petrol,192.0,370.0,201.0,7.1,29400.0,2,Premium
+KIA,SPORTAGE 2024(HYBRID AWD),Hybrid,227.0,350.0,180.0,8.0,37000.0,2,Premium
+KIA,SPORTAGE 2024(PLUG-IN HYBRID AWD),Plug-in Hybrid,261.0,350.0,180.0,7.9,42000.0,2,Premium
+KIA,SPORTAGE 2024(X-PRO),Petrol,187.0,400.0,200.0,8.1,36000.0,2,Premium
+KIA,SPORTAGE 2024(X-PRO PRESTIGE),Petrol,187.0,400.0,200.0,8.1,38000.0,2,Premium
+KIA,SPORTAGE 2024(SX TURBO AWD),Petrol/AWD,240.0,400.0,210.0,6.5,40000.0,2,Premium
+KIA  ,SPORTAGE 2024(BASE FWD),Petrol,187.0,250.0,200.0,8.5,26500.0,0,Everyday
+HONDA,CR-V,Petrol/Hybrid,190.0,400.0,186.0,8.2,30000.0,0,Everyday
+HONDA,PILOT,Petrol,285.0,360.0,209.0,6.3,40000.0,2,Premium
+HONDA,CIVIC HATCHBACK,Petrol,180.0,300.0,220.0,6.8,26350.0,2,Premium
+TOYOTA,CAMRY,Petrol/Hybrid,301.0,250.0,220.0,6.0,27000.0,2,Premium
+TOYOTA,COROLLA,Petrol/Hybrid,139.0,200.0,180.0,9.4,22500.0,0,Everyday
+TOYOTA,PRIUS,Hybrid,121.0,142.0,180.0,10.5,26700.0,0,Everyday
+TOYOTA,RAV4,Petrol/Hybrid,203.0,400.0,200.0,8.1,27100.0,2,Premium
+TOYOTA,HIGHLANDER,Petrol/Hybrid,295.0,370.0,220.0,7.2,38400.0,2,Premium
+TOYOTA,4RUNNER ,Petrol,270.0,400.0,200.0,7.5,37400.0,2,Premium
+TOYOTA,TACOMA,Petrol,159.0,400.0,180.0,9.5,26400.0,0,Everyday
+TOYOTA,TUNDRA,Petrol,381.0,650.0,220.0,6.7,39900.0,2,Premium
+TOYOTA,AVALON,Petrol,301.0,400.0,220.0,6.9,41400.0,2,Premium
+TOYOTA,MIRAI,Hydrogen,151.0,335.0,180.0,9.2,52400.0,0,Everyday
+TOYOTA,SIENNA,Petrol/Hybrid,245.0,360.0,190.0,8.0,44150.0,2,Premium
+TOYOTA,VENZA,Hybrid,219.0,400.0,200.0,7.5,33400.0,2,Premium
+TOYOTA,HIGHLANDER HYBRID,Hybrid,240.0,350.0,220.0,8.2,40400.0,2,Premium
+TOYOTA,LAND CRUISER PRADO,Petrol/Diesel,282.0,450.0,200.0,7.2,49400.0,2,Premium
+TOYOTA,TUNDRA HYBRID,Hybrid,344.0,650.0,220.0,6.2,43400.0,2,Premium
+TOYOTA,YARIS,Petrol,106.0,150.0,180.0,11.2,18400.0,0,Everyday
+TOYOTA,C-HR,Petrol/Hybrid,144.0,250.0,200.0,10.2,24400.0,0,Everyday
+TOYOTA,BZ4X,Electric,218.0,330.0,200.0,7.5,43400.0,2,Premium
+TOYOTA,CROWN,Hybrid,236.0,400.0,200.0,7.6,38400.0,2,Premium
+TOYOTA,MR2,Petrol,168.0,400.0,200.0,6.9,29000.0,2,Premium
+TOYOTA,CELICA,Petrol,140.0,250.0,200.0,8.5,25000.0,0,Everyday
+HONDA,CITY,Petrol/Hybrid,119.0,145.0,180.0,10.2,15400.0,0,Everyday
+HONDA,CIVIC,Petrol,158.0,400.0,200.0,8.5,20400.0,0,Everyday
+HYUNDAI,I10,Petrol,87.0,120.0,160.0,12.2,12400.0,0,Everyday
+HYUNDAI,I20,Petrol/Hybrid,99.0,250.0,180.0,10.5,15400.0,0,Everyday
+HYUNDAI,ELANTRA,Petrol/Hybrid,147.0,250.0,200.0,9.5,18400.0,0,Everyday
+MAHINDRA,XUV500,Diesel,155.0,400.0,180.0,10.5,18400.0,0,Everyday
+MAHINDRA,SCORPIO,Diesel,140.0,280.0,160.0,11.2,16400.0,0,Everyday
+MAHINDRA,THAR,Petrol/Diesel,150.0,320.0,180.0,10.5,20400.0,0,Everyday
+MARUTI SUZUKI,SWIFT,Petrol,83.0,113.0,160.0,12.2,10400.0,0,Everyday
+MARUTI SUZUKI,DZIRE,Petrol/Diesel,83.0,113.0,160.0,12.2,11400.0,0,Everyday
+MARUTI SUZUKI,BREZZA,Petrol,103.0,200.0,180.0,11.5,14400.0,0,Everyday
+TOYOTA,PRIUS PRIME,Plug-in Hybrid,220.0,220.0,180.0,6.7,31100.0,2,Premium
+TOYOTA,GR COROLLA,Petrol,300.0,370.0,230.0,5.0,36995.0,2,Premium
+TOYOTA,LAND CRUISER 300,Petrol/Diesel,305.0,650.0,210.0,6.8,58500.0,2,Premium
+TOYOTA,TUNDRA I-FORCE MAX,Hybrid,437.0,750.0,180.0,6.2,56000.0,2,Premium
+TOYOTA,COROLLA HATCHBACK XSE,Petrol,169.0,250.0,190.0,8.2,25390.0,0,Everyday
+TOYOTA,MIRAI,Hydrogen,152.0,335.0,180.0,9.0,49500.0,0,Everyday
+TOYOTA,HILUX GR SPORT,Petrol/Diesel,224.0,500.0,170.0,10.0,50000.0,0,Everyday
+TOYOTA,ALPHARD EXECUTIVE LOUNGE,Petrol,296.0,400.0,180.0,8.5,60000.0,2,Premium
+TOYOTA,FORTUNER GR SPORT,Diesel/Petrol,204.0,500.0,175.0,10.5,55000.0,0,Everyday
+TOYOTA,INNOVA HYCROSS,Hybrid,184.0,250.0,165.0,9.5,40000.0,0,Everyday
+TOYOTA,URBAN CRUISER TAISOR,Petrol,114.0,130.0,170.0,11.0,25000.0,0,Everyday
+TOYOTA,AYGO X,Petrol,71.0,93.0,160.0,14.8,18000.0,0,Everyday
+TOYOTA,HILUX REVO ROCCO,Diesel,204.0,500.0,175.0,10.0,50000.0,0,Everyday
+TOYOTA,PROACE VERSO ELECTRIC,Electric,136.0,280.0,130.0,13.5,55000.0,0,Everyday
+TOYOTA,CENTURY SUV,Petrol,406.0,500.0,200.0,6.0,170000.0,2,Premium
+TOYOTA,COROLLA SEDAN HYBRID,Hybrid,134.0,300.0,180.0,10.0,24000.0,0,Everyday
+TOYOTA,BZ3,Electric,241.0,340.0,160.0,7.5,35000.0,2,Premium
+TOYOTA,GR YARIS,Petrol,268.0,390.0,230.0,5.5,45000.0,2,Premium
+HYUNDAI,SANTA FE,Petrol/Hybrid,253.0,420.0,180.0,9.3,50000.0,2,Premium
+HYUNDAI,IONIQ 5,Electric,225.0,350.0,185.0,7.4,41000.0,2,Premium
+HYUNDAI,Santa Cruz,Petrol,281.0,400.0,215.0,6.5,40799.0,2,Premium
+HYUNDAI,Kona,Petrol/EV,147.0,400.0,185.0,10.0,20500.0,0,Everyday
+HYUNDAI,Elantra,Petrol/Hybrid,147.0,250.0,210.0,8.3,19950.0,0,Everyday
+HYUNDAI,IONIQ 6,Electric,320.0,350.0,185.0,5.2,41450.0,2,Premium
+HYUNDAI,Tucson,Petrol/Hybrid,187.0,400.0,180.0,6.1,30500.0,2,Premium
+HYUNDAI,Palisade,Petrol,291.0,355.0,240.0,6.3,52000.0,2,Premium
+HYUNDAI,Sonata,Petrol/Hybrid,191.0,250.0,240.0,8.0,25000.0,2,Premium
+HYUNDAI,Accent,Petrol,120.0,151.0,180.0,9.8,15000.0,0,Everyday
+HYUNDAI,Venue,Petrol,121.0,240.0,180.0,9.5,18000.0,0,Everyday
+HYUNDAI,KONA Electric,Electric,200.0,395.0,200.0,6.1,40000.0,2,Premium
+HYUNDAI,Veloster,Petrol,275.0,264.0,220.0,6.0,25000.0,2,Premium
+HYUNDAI,NEXO,Hydrogen,161.0,400.0,180.0,7.8,38000.0,2,Premium
+HYUNDAI,Ioniq,Hybrid/Electric,139.0,295.0,160.0,8.5,18000.0,0,Everyday
+HYUNDAI,Genesis,Petrol,291.0,400.0,240.0,6.3,52000.0,2,Premium
+HYUNDAI,Azera,Petrol,278.0,250.0,240.0,6.5,55000.0,2,Premium
+HYUNDAI,Equus,Petrol,278.0,400.0,240.0,6.5,55000.0,2,Premium
+HYUNDAI,Tiburon,Petrol,160.0,320.0,200.0,8.2,19000.0,0,Everyday
+HYUNDAI,Elantra GT,Petrol,160.0,320.0,200.0,8.3,22000.0,0,Everyday
+Volkswagen,Golf,Petrol,320.0,250.0,210.0,8.5,23000.0,2,Premium
+Volkswagen,Passat,Petrol,280.0,250.0,210.0,7.8,25000.0,2,Premium
+Volkswagen,Tiguan,"Petrol, Hybrid",230.0,300.0,209.0,8.5,28505.0,2,Premium
+Volkswagen,Jetta,Petrol,228.0,250.0,210.0,7.7,21995.0,2,Premium
+Volkswagen,Polo,Petrol,200.0,175.0,190.0,9.5,18000.0,0,Everyday
+Volkswagen,Arteon,Petrol,280.0,350.0,250.0,5.6,46000.0,2,Premium
+Volkswagen,ID.4,Electric,302.0,310.0,160.0,7.8,39735.0,2,Premium
+Volkswagen,Up!,Petrol,82.0,95.0,160.0,13.0,15000.0,0,Everyday
+Volkswagen,Touareg,"Petrol, Diesel",500.0,600.0,235.0,5.9,55000.0,2,Premium
+Volkswagen,Scirocco,Petrol,280.0,350.0,233.0,6.0,35000.0,2,Premium
+Volkswagen,Beetle,Petrol,210.0,240.0,205.0,7.0,20000.0,2,Premium
+Volkswagen,Amarok,Diesel,258.0,550.0,180.0,7.9,40000.0,2,Premium
+Volkswagen,T-Roc,Petrol,300.0,320.0,205.0,7.2,30000.0,2,Premium
+Volkswagen,Sharan,"Petrol, Diesel",220.0,280.0,200.0,9.3,33000.0,0,Everyday
+Volkswagen,Caddy,"Petrol, Diesel",150.0,250.0,185.0,10.5,28000.0,0,Everyday
+Nissan,NV1500,Petrol,261.0,385.0,160.0,9.5,33000.0,0,Everyday
+Volkswagen,Taigo,Petrol,150.0,200.0,183.0,10.0,24000.0,0,Everyday
+Volkswagen,California,Diesel,204.0,340.0,180.0,13.0,70000.0,0,Everyday
+Volkswagen,ID.3,Electric,204.0,310.0,160.0,7.3,35000.0,0,Everyday
+Volkswagen,ID. Buzz,Electric,204.0,310.0,145.0,10.2,59995.0,0,Everyday
+Volkswagen,Golf GTI,Petrol,245.0,350.0,250.0,5.9,31965.0,2,Premium
+Volkswagen,Golf R,Petrol,315.0,420.0,250.0,4.6,44640.0,2,Premium
+Volkswagen,Passat Alltrack,Diesel,240.0,400.0,220.0,7.8,36000.0,2,Premium
+Volkswagen,Polo GTI,Petrol,204.0,320.0,238.0,6.7,28000.0,2,Premium
+Volkswagen,Up! GTI,Petrol,115.0,200.0,196.0,8.8,20000.0,0,Everyday
+Volkswagen,T-Cross,Petrol,150.0,250.0,200.0,10.2,25000.0,0,Everyday
+Volkswagen,ID.5,Electric,299.0,310.0,180.0,8.4,45000.0,2,Premium
+Volkswagen,ID. Buzz Cargo,Electric,204.0,310.0,145.0,10.2,55000.0,0,Everyday
+Volkswagen,Touareg R,Hybrid,462.0,700.0,250.0,5.1,70000.0,2,Premium
+Volkswagen,Multivan,"Petrol, Hybrid",218.0,350.0,190.0,9.4,50000.0,0,Everyday
+Volkswagen,Polo BlueMotion,Diesel,95.0,250.0,190.0,10.5,22000.0,0,Everyday
+Volkswagen,Golf Sportsvan,Petrol,150.0,250.0,210.0,8.9,30000.0,0,Everyday
+Volkswagen,Golf Alltrack,Petrol,200.0,350.0,210.0,7.1,35000.0,2,Premium
+Volkswagen,Scirocco R,Petrol,280.0,350.0,250.0,5.5,40000.0,2,Premium
+Volkswagen,Tiguan Allspace,Petrol,230.0,320.0,215.0,7.6,35000.0,2,Premium
+Volkswagen,Arteon 4MOTION,Petrol,320.0,350.0,250.0,5.6,48000.0,2,Premium
+Volkswagen,ID.4 GTX,Electric,299.0,460.0,180.0,6.2,50000.0,2,Premium
+Volkswagen,ID.3 Pro,Electric,204.0,310.0,160.0,7.3,35000.0,0,Everyday
+Volkswagen,Golf Variant,Petrol,150.0,320.0,220.0,7.5,32000.0,2,Premium
+Volkswagen,Crafter,Diesel,177.0,410.0,160.0,13.0,40000.0,0,Everyday
+Volkswagen,Lupo,Petrol,75.0,120.0,170.0,14.3,15000.0,0,Everyday
+Volkswagen,Corrado,Petrol,190.0,245.0,235.0,6.4,25000.0,2,Premium
+Volkswagen,Phaeton,Petrol,450.0,560.0,250.0,6.1,85000.0,2,Premium
+Volkswagen,Golf Cabriolet,Petrol,210.0,200.0,217.0,8.4,30000.0,0,Everyday
+Volkswagen,Santana,Petrol,110.0,145.0,190.0,12.9,15000.0,0,Everyday
+Volkswagen,Polo Vivo,Petrol,105.0,132.0,170.0,10.8,14000.0,0,Everyday
+Volkswagen,Karmann Ghia,Petrol,60.0,106.0,138.0,23.0,25000.0,0,Everyday
+Volkswagen,Fox,Petrol,75.0,93.0,148.0,17.5,12000.0,0,Everyday
+Volkswagen,Vento,Petrol,110.0,153.0,186.0,11.7,18000.0,0,Everyday
+Volkswagen,Golf Electric,Electric,136.0,290.0,140.0,10.4,33000.0,0,Everyday
+Volkswagen,Bora,Petrol,150.0,220.0,200.0,9.4,20000.0,0,Everyday
+Volkswagen,Teramont,Petrol,276.0,350.0,190.0,8.6,32000.0,2,Premium
+Volkswagen,Taos,Petrol,158.0,250.0,193.0,8.4,24000.0,0,Everyday
+Volkswagen,Up! Cabriolet,Petrol,115.0,95.0,160.0,12.4,18000.0,0,Everyday
+Volkswagen,T-Roc Cabriolet,Petrol,150.0,250.0,205.0,9.6,35000.0,0,Everyday
+Volkswagen,Passat CC,Petrol,280.0,280.0,240.0,7.3,40000.0,2,Premium
+Volkswagen,Transporter,Diesel,204.0,340.0,180.0,12.2,35000.0,0,Everyday
+Volkswagen,Amarok V6,Diesel,258.0,580.0,191.0,7.9,45000.0,2,Premium
+Volkswagen,ID.2,Electric,170.0,220.0,160.0,8.0,25000.0,0,Everyday
+Volkswagen,Polo TDI,Diesel,105.0,250.0,190.0,9.9,20000.0,0,Everyday
+Volkswagen,Golf GTE,Hybrid,204.0,350.0,222.0,7.6,40000.0,2,Premium
+Volkswagen,Touareg V8,Petrol,421.0,770.0,250.0,4.9,70000.0,2,Premium
+Volkswagen,Beetle Dune,Petrol,150.0,250.0,200.0,7.5,30000.0,0,Everyday
+Volkswagen,Passat B8,Petrol,280.0,250.0,210.0,8.7,28000.0,2,Premium
+Volkswagen,ID.4 Pro S,Electric,201.0,310.0,180.0,7.8,45000.0,2,Premium
+Volkswagen,Golf Cabriolet,Petrol,210.0,200.0,217.0,8.4,30000.0,0,Everyday
+Volkswagen,Golf Country,Petrol,98.0,170.0,165.0,12.0,25000.0,0,Everyday
+Volkswagen,Jetta GLI,Petrol,228.0,350.0,250.0,6.5,31000.0,2,Premium
+Volkswagen,Arteon Shooting Brake,Petrol,320.0,420.0,250.0,5.6,50000.0,2,Premium
+Volkswagen,T-Cross R-Line,Petrol,150.0,250.0,200.0,8.5,27000.0,0,Everyday
+Volkswagen,Golf R32,Petrol,240.0,320.0,250.0,6.2,40000.0,2,Premium
+Volkswagen,Passat B7,Petrol,240.0,280.0,220.0,8.5,26000.0,2,Premium
+Volkswagen,Scirocco 16V,Petrol,137.0,230.0,220.0,7.1,35000.0,2,Premium
+Volkswagen,Polo BlueMotion,Diesel,95.0,210.0,190.0,10.5,20000.0,0,Everyday
+Volkswagen,Golf Variant GTD,Diesel,184.0,380.0,230.0,7.5,38000.0,2,Premium
+Volkswagen,Polo GTI R5,Petrol,272.0,400.0,200.0,4.1,45000.0,2,Premium
+Volkswagen,ID. Buzz Pro,Electric,204.0,310.0,145.0,10.2,60000.0,0,Everyday
+Volkswagen,Jetta Hybrid,Hybrid,170.0,250.0,210.0,8.6,28000.0,0,Everyday
+Volkswagen,Golf Variant Alltrack,Petrol,200.0,320.0,220.0,7.8,35000.0,2,Premium
+Volkswagen,Volkswagen XL1,Hybrid,68.0,140.0,160.0,11.9,150000.0,0,Everyday
+Volkswagen,Golf TDI,Diesel,184.0,350.0,220.0,8.0,28000.0,2,Premium
+Volkswagen,Passat Variant,Petrol,240.0,280.0,220.0,8.5,30000.0,2,Premium
+Volkswagen,Polo GTI Clubsport,Petrol,300.0,320.0,240.0,6.7,30000.0,2,Premium
+Volkswagen,Jetta Hybrid,Hybrid,170.0,250.0,210.0,8.6,28000.0,0,Everyday
+Volkswagen,ID.3 GTX,Electric,299.0,310.0,180.0,6.2,45000.0,2,Premium
+Volkswagen,Arteon R-Line,Petrol,280.0,420.0,250.0,5.6,50000.0,2,Premium
+Volkswagen,Golf TGI,Petrol,130.0,200.0,220.0,8.8,30000.0,0,Everyday
+Volkswagen,Scirocco GTS,Petrol,220.0,350.0,246.0,6.5,35000.0,2,Premium
+Volkswagen,Caddy Maxi,Diesel,150.0,250.0,180.0,12.0,25000.0,0,Everyday
+Volkswagen,Volkswagen Lupo 3L,Diesel,61.0,140.0,165.0,14.5,20000.0,0,Everyday
+Volkswagen,Polo Beats,Petrol,95.0,175.0,187.0,9.5,22000.0,0,Everyday
+Volkswagen,Passat Hybrid,Hybrid,215.0,330.0,210.0,7.4,32000.0,2,Premium
+Volkswagen,Golf TCR,Petrol,290.0,370.0,250.0,5.6,40000.0,2,Premium
+Volkswagen,Tiguan R-Line,Petrol,230.0,420.0,250.0,4.9,45000.0,2,Premium
+Volkswagen,Sharan Business,Diesel,184.0,350.0,200.0,8.3,35000.0,2,Premium
+Volkswagen,ID. Buzz Cargo Pro,Electric,204.0,310.0,145.0,10.2,55000.0,0,Everyday
+Volkswagen,Arteon 280 TSI,Petrol,280.0,350.0,250.0,5.6,50000.0,2,Premium
+Volkswagen,Jetta GLI 35th,Petrol,228.0,350.0,250.0,6.5,31000.0,2,Premium
+Volkswagen,Beetle Final Edition,Petrol,174.0,250.0,205.0,7.0,25000.0,2,Premium
+Volkswagen,Golf Variant TDI,Diesel,184.0,350.0,220.0,7.8,30000.0,2,Premium
+Volkswagen,Golf 4MOTION,Petrol,184.0,400.0,250.0,4.9,40000.0,2,Premium
+Volkswagen,Jetta SportWagen,Petrol,150.0,250.0,200.0,8.5,27000.0,0,Everyday
+Volkswagen,Polo GTI Plus,Petrol,207.0,320.0,237.0,6.7,30000.0,2,Premium
+Volkswagen,Touareg V6,Petrol,340.0,450.0,235.0,7.5,60000.0,2,Premium
+Volkswagen,Tiguan eHybrid,Hybrid,245.0,400.0,200.0,7.5,42000.0,2,Premium
+Volkswagen,Up! e-up!,Electric,83.0,210.0,130.0,11.9,23000.0,0,Everyday
+Volkswagen,Amarok V8,Diesel,340.0,580.0,210.0,7.4,70000.0,2,Premium
+Volkswagen,Golf R Cabriolet,Petrol,265.0,380.0,250.0,5.9,45000.0,2,Premium
+Volkswagen,Passat Alltrack TDI,Diesel,190.0,400.0,220.0,8.0,40000.0,2,Premium
+Volkswagen,ID. Buzz Cargo EV,Electric,204.0,310.0,145.0,10.2,55000.0,0,Everyday
+Nissan,Versa,Petrol,122.0,154.0,180.0,10.4,16700.0,0,Everyday
+Nissan,Micra,Petrol,100.0,160.0,175.0,10.8,15500.0,0,Everyday
+Nissan,Patrol Platinum,Petrol,400.0,560.0,210.0,7.3,77000.0,2,Premium
+Nissan,Qashqai,Petrol,156.0,260.0,195.0,8.9,26000.0,0,Everyday
+Nissan,Murano,Petrol,260.0,325.0,210.0,7.5,39000.0,2,Premium
+Nissan,Maxima Platinum,Petrol,300.0,353.0,220.0,6.2,45000.0,2,Premium
+Nissan,Armada,Petrol,400.0,560.0,210.0,6.5,51000.0,2,Premium
+Nissan,Kicks,Petrol,122.0,154.0,180.0,10.7,20000.0,0,Everyday
+Nissan,X-Trail,Hybrid,201.0,305.0,200.0,8.0,29000.0,2,Premium
+Nissan,Z (Fairlady Z),Petrol,400.0,475.0,250.0,4.5,40000.0,2,Premium
+Nissan,Almera,Petrol,100.0,160.0,185.0,10.7,14500.0,0,Everyday
+Nissan,Sylphy,Petrol,137.0,174.0,190.0,9.6,18000.0,0,Everyday
+Nissan,Note,Hybrid,109.0,150.0,170.0,11.5,16000.0,0,Everyday
+Nissan,Sunny,Petrol,118.0,156.0,180.0,11.0,15000.0,0,Everyday
+Nissan,Cube,Petrol,122.0,171.0,175.0,10.6,14500.0,0,Everyday
+Nissan,Juke,Petrol,117.0,180.0,180.0,10.4,25000.0,0,Everyday
+Nissan,Terrano,Diesel,110.0,248.0,168.0,13.5,15500.0,0,Everyday
+Nissan,Magnite,Petrol,100.0,160.0,160.0,13.0,12000.0,0,Everyday
+Nissan,Xterra,Petrol,261.0,381.0,200.0,7.8,35000.0,2,Premium
+Nissan,Patrol,Petrol,400.0,560.0,210.0,7.3,77000.0,2,Premium
+Nissan,GT-R NISMO,Petrol,600.0,652.0,330.0,2.9,220000.0,1,Sports & Luxury
+Nissan,370Z Roadster,Petrol,332.0,366.0,250.0,5.5,41820.0,2,Premium
+Nissan,Ariya ,Electric,389.0,600.0,200.0,5.1,58950.0,2,Premium
+Nissan,Patrol Royale,Petrol,400.0,560.0,210.0,6.6,85000.0,2,Premium
+Nissan,Infiniti QX80*,Petrol,400.0,560.0,210.0,6.5,70600.0,2,Premium
+Nissan,Tiida,Petrol,126.0,154.0,190.0,10.1,14500.0,0,Everyday
+Nissan,Pulsar,Petrol,115.0,190.0,190.0,10.7,19000.0,0,Everyday
+Nissan,Latio,Petrol,102.0,139.0,175.0,11.5,13000.0,0,Everyday
+Nissan,Bluebird Sylphy,Petrol,133.0,191.0,185.0,10.5,18500.0,0,Everyday
+Nissan,March,Petrol,79.0,106.0,170.0,13.7,12000.0,0,Everyday
+Nissan,Rogue Sport,Petrol,141.0,199.0,190.0,9.8,24960.0,0,Everyday
+Nissan,X-Trail Hybrid,Hybrid,179.0,207.0,180.0,9.4,28500.0,0,Everyday
+Nissan,Pathfinder Rock Creek,Petrol,284.0,351.0,190.0,7.4,42820.0,2,Premium
+Nissan,Armada Platinum,Petrol,400.0,560.0,210.0,6.5,65300.0,2,Premium
+Nissan,Terrano XL,Petrol,104.0,145.0,165.0,12.5,14000.0,0,Everyday
+Nissan,GT-R50 by Italdesign,Petrol,720.0,780.0,315.0,2.5,1100000.0,1,Sports & Luxury
+Nissan,370Z NISMO,Petrol,350.0,374.0,250.0,5.2,45790.0,2,Premium
+Nissan,Ariya E-4ORCE,Electric,389.0,600.0,200.0,5.1,60000.0,2,Premium
+Nissan,Patrol NISMO,Petrol,428.0,560.0,210.0,6.5,105000.0,2,Premium
+Nissan,Infiniti Q60*,Petrol,300.0,400.0,250.0,5.0,41750.0,2,Premium
+Nissan,Primera,Petrol,140.0,190.0,200.0,9.6,20000.0,0,Everyday
+Nissan,Skyline,Petrol,400.0,475.0,250.0,5.0,50000.0,2,Premium
+Nissan,Cedric,Petrol,150.0,190.0,190.0,10.5,22000.0,0,Everyday
+Nissan,Gloria,Petrol,210.0,250.0,210.0,8.6,30000.0,0,Everyday
+Nissan,Stanza,Petrol,120.0,170.0,175.0,11.0,18500.0,0,Everyday
+Nissan,Patrol Super Safari,Petrol,280.0,451.0,190.0,8.2,55000.0,2,Premium
+Nissan,Pathfinder Hybrid,Hybrid,250.0,329.0,190.0,7.7,42500.0,2,Premium
+Nissan,X-Terra Pro-4X,Petrol,190.0,240.0,175.0,10.8,40000.0,0,Everyday
+Nissan,Rogue Platinum,Petrol,201.0,300.0,180.0,8.2,38000.0,0,Everyday
+Nissan,Qashqai Tekna,Hybrid,158.0,270.0,190.0,9.2,36000.0,0,Everyday
+Nissan,GT-R V-Spec,Petrol,600.0,652.0,330.0,2.8,175000.0,1,Sports & Luxury
+Nissan,Skyline NISMO,Petrol,420.0,475.0,270.0,4.7,55000.0,2,Premium
+Nissan,Ariya Lounge Edition,Electric,389.0,600.0,200.0,5.1,63000.0,2,Premium
+Nissan,Patrol Titanium,Petrol,428.0,560.0,210.0,6.5,98000.0,2,Premium
+Nissan,Infiniti FX50*,Petrol,390.0,500.0,250.0,5.6,61750.0,2,Premium
+Nissan,Avenir,Petrol,140.0,186.0,180.0,9.8,20000.0,0,Everyday
+Nissan,Wingroad,Petrol,125.0,168.0,175.0,10.8,18000.0,0,Everyday
+Nissan,Presea,Petrol,115.0,161.0,170.0,11.5,17500.0,0,Everyday
+Nissan,Leopard,Petrol,210.0,265.0,200.0,8.4,32000.0,0,Everyday
+Nissan,Sunny NISMO Edition,Petrol,190.0,240.0,200.0,7.5,24000.0,0,Everyday
+Nissan,Paladin,Petrol,150.0,217.0,180.0,10.6,20000.0,0,Everyday
+Nissan,Hardbody SUV,Petrol,158.0,225.0,175.0,11.0,18500.0,0,Everyday
+Nissan,Patrol Desert Edition,Petrol,428.0,560.0,210.0,6.5,95000.0,2,Premium
+Nissan,Pathfinder Armada,Petrol,400.0,560.0,200.0,6.5,60000.0,2,Premium
+Nissan,Rogue Midnight Edition,Petrol,201.0,300.0,180.0,8.2,39000.0,0,Everyday
+Nissan,GT-R Black Edition,Petrol,600.0,652.0,330.0,2.8,185000.0,1,Sports & Luxury
+Nissan,Fairlady Z Heritage,Petrol,400.0,475.0,250.0,4.2,48000.0,2,Premium
+Nissan,Skyline GT-R R34,Petrol,276.0,392.0,250.0,5.6,70000.0,2,Premium
+Nissan,Ariya Premiere,Electric,389.0,600.0,200.0,5.1,67000.0,2,Premium
+Nissan,Infiniti QX55*,Petrol,268.0,380.0,230.0,6.5,50000.0,2,Premium
+Nissan,NV350 Caravan,Diesel,129.0,356.0,155.0,12.5,28000.0,0,Everyday
+Nissan,Navara,Diesel,190.0,450.0,180.0,10.2,32000.0,0,Everyday
+Nissan,Titan XD,Petrol,400.0,560.0,195.0,6.9,55000.0,2,Premium
+Nissan,Evalia,Diesel,85.0,200.0,140.0,15.0,25000.0,0,Everyday
+Nissan,Cabstar,Diesel,130.0,350.0,145.0,14.8,27000.0,0,Everyday
+Nissan,Cherry,Petrol,67.0,110.0,145.0,14.0,14000.0,0,Everyday
+Nissan,Laurel,Diesel,94.0,184.0,160.0,12.5,22000.0,0,Everyday
+Nissan,Silvia,Petrol,247.0,275.0,235.0,5.9,45000.0,2,Premium
+Nissan,NX Coupe,Petrol,140.0,180.0,200.0,9.0,22000.0,0,Everyday
+Nissan,AD Wagon,Petrol,105.0,150.0,165.0,12.3,16000.0,0,Everyday
+Nissan,Patrol Super Safari Y61,Petrol,280.0,451.0,190.0,8.2,58000.0,2,Premium
+Nissan,Pathfinder Rock Creek Edition,Petrol,284.0,351.0,195.0,7.2,44000.0,2,Premium
+Nissan,Terrano II,Diesel,125.0,278.0,160.0,12.9,28000.0,0,Everyday
+Nissan,Murano CrossCabriolet,Petrol,260.0,325.0,195.0,7.6,47000.0,2,Premium
+Nissan,X-Trail Tekna,Hybrid,204.0,305.0,190.0,8.0,43000.0,2,Premium
+Nissan,GT-R LM NISMO,Hybrid,500.0,650.0,320.0,3.0,600000.0,1,Sports & Luxury
+Nissan,Skyline 400R,Petrol,400.0,475.0,250.0,4.5,70000.0,2,Premium
+Nissan,Infiniti G37*,Petrol,328.0,365.0,250.0,5.5,42000.0,2,Premium
+Nissan,Patrol Black Edition,Petrol,400.0,560.0,200.0,6.5,85000.0,2,Premium
+Nissan,Ariya Empower+,Electric,389.0,600.0,200.0,5.1,68000.0,2,Premium
+Nissan,Datsun 510 (Classic),Petrol,96.0,135.0,175.0,10.2,25000.0,0,Everyday
+Nissan,200SX,Petrol,200.0,265.0,240.0,7.2,30000.0,2,Premium
+Nissan,300ZX,Petrol,300.0,384.0,250.0,5.9,50000.0,2,Premium
+Nissan,R390 GT1 Road Car,Petrol,550.0,637.0,354.0,3.3,1000000.0,1,Sports & Luxury
+Nissan,Figaro,Petrol,76.0,103.0,170.0,12.8,20000.0,0,Everyday
+Nissan,Hardbody Truck,Petrol,134.0,206.0,160.0,10.6,25000.0,0,Everyday
+Nissan,Atlas,Diesel,130.0,300.0,130.0,18.0,35000.0,0,Everyday
+Nissan,Clipper,Petrol,48.0,62.0,110.0,18.5,10000.0,0,Everyday
+Nissan,NV200,Petrol,131.0,188.0,140.0,14.0,28000.0,0,Everyday
+Nissan,Violet,Petrol,85.0,130.0,155.0,13.8,18000.0,0,Everyday
+Nissan,Bluebird Z,Petrol,140.0,180.0,190.0,11.0,23000.0,0,Everyday
+Nissan,Stanza Wagon,Petrol,138.0,205.0,160.0,12.0,22000.0,0,Everyday
+Nissan,180SX,Petrol,205.0,275.0,240.0,6.8,35000.0,2,Premium
+Nissan,Sunny California,Petrol,110.0,140.0,170.0,11.0,18000.0,0,Everyday
+Nissan,Patrol Warrior,Petrol,428.0,580.0,205.0,6.3,95000.0,2,Premium
+Nissan,Pathfinder Armada Platinum,Petrol,400.0,560.0,190.0,6.8,70000.0,2,Premium
+Nissan,Rogue Sport SL,Petrol,141.0,195.0,190.0,9.0,32000.0,0,Everyday
+Nissan,X-Trail Platinum Edition,Hybrid,204.0,305.0,190.0,8.0,46000.0,2,Premium
+Nissan,Qashqai e-Power,Hybrid,187.0,330.0,200.0,7.5,40000.0,2,Premium
+Nissan,GT-R Egoist,Petrol,565.0,637.0,315.0,2.8,220000.0,1,Sports & Luxury
+Nissan,Infiniti M45*,Petrol,325.0,451.0,250.0,5.8,50000.0,2,Premium
+Nissan,Skyline 50th Anniversary,Petrol,400.0,475.0,250.0,4.5,75000.0,2,Premium
+Nissan,Ariya Dual Motor AWD,Electric,389.0,600.0,200.0,5.1,70000.0,2,Premium
+Nissan,Patrol Legend Edition,Petrol,428.0,580.0,205.0,6.3,95000.0,2,Premium
+Nissan,Datsun 240Z (Classic),Petrol,151.0,198.0,210.0,8.0,45000.0,2,Premium
+Nissan,100NX,Petrol,110.0,135.0,185.0,9.6,18000.0,0,Everyday
+Nissan,Cedric Special Edition,Petrol,250.0,330.0,225.0,8.5,60000.0,2,Premium
+Nissan,300ZX Turbo,Petrol,300.0,384.0,250.0,5.9,55000.0,2,Premium
+Nissan,Silvia S15 Spec-R,Petrol,250.0,300.0,240.0,5.6,35000.0,2,Premium
+Nissan,NV400,Diesel,135.0,360.0,150.0,15.0,40000.0,0,Everyday
+Nissan,Titan Warrior,Petrol,400.0,560.0,180.0,7.0,55000.0,2,Premium
+Nissan,Caravan Coach,Diesel,127.0,260.0,140.0,14.0,30000.0,0,Everyday
+Nissan,Serena e-Power,Hybrid,134.0,320.0,160.0,12.0,35000.0,0,Everyday
+Nissan,Elgrand,Petrol,280.0,344.0,200.0,8.5,50000.0,2,Premium
+Nissan,Datsun 510,Petrol,96.0,135.0,175.0,10.2,25000.0,0,Everyday
+Nissan,Prairie,Petrol,120.0,170.0,175.0,11.0,18000.0,0,Everyday
+Nissan,Pulsar GTI-R,Petrol,230.0,280.0,225.0,6.0,30000.0,2,Premium
+Nissan,Almera Tino,Petrol,114.0,160.0,180.0,12.5,15000.0,0,Everyday
+Nissan,Lucino,Petrol,115.0,150.0,185.0,10.5,12000.0,0,Everyday
+Nissan,Rasheen,Petrol,105.0,135.0,165.0,13.0,10000.0,0,Everyday
+Nissan,Mistral,Diesel,125.0,260.0,160.0,12.5,25000.0,0,Everyday
+Nissan,Patrol Y60,Diesel,155.0,330.0,160.0,12.0,45000.0,0,Everyday
+Nissan,X-Trail GT,Petrol,280.0,310.0,215.0,6.4,38000.0,2,Premium
+Nissan,Terrano Regulus,Petrol,170.0,290.0,175.0,10.0,28000.0,0,Everyday
+Nissan,President,Petrol,280.0,400.0,210.0,7.5,70000.0,2,Premium
+Nissan,Cima,Petrol,270.0,390.0,210.0,8.0,60000.0,2,Premium
+Nissan,Leopard J. Ferie,Petrol,255.0,340.0,215.0,6.5,45000.0,2,Premium
+Nissan,Gloria Gran Turismo,Petrol,255.0,340.0,220.0,6.5,50000.0,2,Premium
+Nissan,Infiniti Q45*,Petrol,340.0,450.0,240.0,6.2,50000.0,2,Premium
+Nissan,Datsun 240Z,Petrol,151.0,198.0,210.0,8.0,45000.0,2,Premium
+Nissan,280ZX,Petrol,145.0,210.0,205.0,9.5,35000.0,0,Everyday
+Nissan,Silvia S13,Petrol,175.0,230.0,215.0,6.8,20000.0,2,Premium
+Nissan,200SX,Petrol,200.0,260.0,225.0,7.0,25000.0,2,Premium
+Nissan,NX Coupe,Petrol,140.0,180.0,200.0,9.0,18000.0,0,Everyday
+Nissan,NV2500,Petrol,261.0,385.0,160.0,10.0,36000.0,0,Everyday
+Nissan,NV3500,Petrol,375.0,525.0,170.0,9.0,42000.0,2,Premium
+Nissan,NT400 Cabstar,Diesel,150.0,350.0,140.0,15.0,35000.0,0,Everyday
+Porsche,Panamera,Petrol,330.0,450.0,270.0,5.6,88000.0,2,Premium
+Porsche,Panamera 4,Petrol,330.0,450.0,270.0,5.4,92000.0,2,Premium
+Porsche,Panamera 4S,Petrol,440.0,550.0,289.0,4.4,105000.0,1,Sports & Luxury
+Porsche,Panamera Turbo S,Petrol,620.0,820.0,315.0,3.1,180000.0,1,Sports & Luxury
+Porsche,Panamera GTS,Petrol,473.0,620.0,300.0,3.9,130000.0,1,Sports & Luxury
+Porsche,Panamera Platinum Edition,Petrol,330.0,450.0,270.0,5.4,102000.0,2,Premium
+Porsche,Panamera E-Hybrid,Hybrid (Petrol),455.0,700.0,280.0,4.4,115000.0,1,Sports & Luxury
+Porsche,Panamera 4 E-Hybrid Sport Turismo,Hybrid (Petrol),455.0,700.0,280.0,4.4,120000.0,1,Sports & Luxury
+Porsche,Panamera Turbo S E-Hybrid,Hybrid (Petrol),690.0,870.0,315.0,3.2,190000.0,1,Sports & Luxury
+Porsche,Panamera 4 Executive,Petrol,330.0,450.0,270.0,5.6,95000.0,2,Premium
+Porsche,Cayenne,Petrol,335.0,450.0,245.0,5.9,80000.0,2,Premium
+Porsche,Cayenne Coupe,Petrol,335.0,450.0,245.0,6.0,85000.0,2,Premium
+Porsche,Cayenne S,Petrol,434.0,550.0,265.0,5.0,95000.0,1,Sports & Luxury
+Porsche,Cayenne Turbo,Petrol,541.0,770.0,286.0,4.0,130000.0,1,Sports & Luxury
+Porsche,Cayenne GTS,Petrol,453.0,620.0,270.0,4.5,110000.0,1,Sports & Luxury
+Porsche,Cayenne Turbo S E-Hybrid,Hybrid (Petrol),670.0,900.0,295.0,3.6,170000.0,1,Sports & Luxury
+Porsche,Macan,Petrol,261.0,400.0,232.0,6.2,60000.0,2,Premium
+Porsche,Macan S,Petrol,375.0,520.0,259.0,4.8,75000.0,2,Premium
+Porsche,Macan GTS,Petrol,434.0,550.0,272.0,4.5,85000.0,1,Sports & Luxury
+Porsche,Macan T,Petrol,261.0,400.0,232.0,6.2,65000.0,2,Premium
+Porsche,911 Carrera,Petrol,379.0,450.0,293.0,4.2,110000.0,1,Sports & Luxury
+Porsche,911 Carrera S,Petrol,443.0,528.0,308.0,3.5,131300.0,1,Sports & Luxury
+Porsche,911 Carrera 4,Petrol,379.0,450.0,293.0,4.2,106500.0,1,Sports & Luxury
+Porsche,911 Carrera 4S,Petrol,443.0,528.0,306.0,3.4,113300.0,1,Sports & Luxury
+Porsche,911 Targa 4,Petrol,379.0,450.0,289.0,4.4,121300.0,1,Sports & Luxury
+Porsche,911 Turbo,Petrol,572.0,750.0,320.0,2.7,197200.0,1,Sports & Luxury
+Porsche,911 Turbo S,Petrol,640.0,800.0,330.0,2.6,230400.0,1,Sports & Luxury
+Porsche,911 GT3,Petrol,502.0,469.0,318.0,3.4,161100.0,1,Sports & Luxury
+Porsche,911 GT3 RS,Petrol,518.0,465.0,296.0,3.2,241300.0,1,Sports & Luxury
+Porsche,911 Dakar,Petrol,473.0,570.0,240.0,3.4,222000.0,1,Sports & Luxury
+Porsche,Taycan,Electric,402.0,344.0,230.0,5.4,86700.0,2,Premium
+Porsche,Taycan 4S,Electric,522.0,640.0,250.0,4.0,103800.0,1,Sports & Luxury
+Porsche,Taycan Turbo,Electric,670.0,850.0,260.0,3.2,150900.0,1,Sports & Luxury
+Porsche,Taycan Turbo S,Electric,750.0,1050.0,260.0,2.8,185000.0,1,Sports & Luxury
+Porsche,Taycan GTS,Electric,590.0,850.0,250.0,3.5,132750.0,1,Sports & Luxury
+Porsche,Taycan Cross Turismo,Electric,469.0,500.0,220.0,4.8,97700.0,2,Premium
+Porsche,Taycan Sport Turismo,Electric,509.0,650.0,240.0,4.1,104000.0,1,Sports & Luxury
+Porsche,718 Cayman,Petrol,300.0,380.0,275.0,4.9,63400.0,2,Premium
+Porsche,718 Cayman S,Petrol,350.0,420.0,285.0,4.4,75400.0,2,Premium
+Porsche,718 Cayman GT4,Petrol,414.0,420.0,302.0,4.2,100200.0,1,Sports & Luxury
+Porsche,718 Cayman GT4 RS,Petrol,493.0,450.0,315.0,3.2,141700.0,1,Sports & Luxury
+Porsche,718 Boxster,Petrol,300.0,380.0,275.0,4.9,65500.0,2,Premium
+Porsche,718 Boxster T,Petrol,300.0,380.0,275.0,4.7,69600.0,2,Premium
+Porsche,718 Boxster GTS,Petrol,394.0,430.0,293.0,4.3,90300.0,1,Sports & Luxury
+Porsche,718 Spyder,Petrol,414.0,420.0,301.0,4.1,98300.0,1,Sports & Luxury
+Porsche,Panamera Base,Petrol,325.0,450.0,265.0,5.6,92300.0,2,Premium
+Porsche,Panamera 4 E-Hybrid,Hybrid,462.0,700.0,280.0,4.4,113300.0,1,Sports & Luxury
+Porsche,Panamera 4 Sport Turismo,Petrol,325.0,450.0,265.0,5.5,101400.0,2,Premium
+Porsche,Panamera Turbo S E-Hybrid Sport Turismo,Hybrid,690.0,870.0,315.0,3.2,200200.0,1,Sports & Luxury
+Porsche,Panamera 4S E-Hybrid Executive,Hybrid,560.0,750.0,295.0,3.7,128900.0,1,Sports & Luxury
+Porsche,Panamera Platinum Edition,Petrol,325.0,450.0,265.0,5.6,98300.0,2,Premium
+Porsche,Panamera GTS Sport Turismo,Petrol,473.0,620.0,300.0,3.9,136900.0,1,Sports & Luxury
+Porsche,Panamera Turbo Executive,Petrol,550.0,770.0,306.0,3.8,175200.0,1,Sports & Luxury
+Porsche,Panamera Turbo S Exclusive Series,Petrol,570.0,800.0,310.0,3.8,290000.0,1,Sports & Luxury
+Porsche,Panamera 4S ,Petrol,443.0,550.0,289.0,4.1,105000.0,1,Sports & Luxury
+Porsche,Macan Base,Petrol,265.0,400.0,232.0,6.4,58000.0,2,Premium
+Porsche,Macan T,Petrol,265.0,400.0,233.0,6.2,63000.0,2,Premium
+Porsche,Macan S,Petrol,375.0,520.0,259.0,4.6,70400.0,2,Premium
+Porsche,Macan GTS,Petrol,434.0,550.0,272.0,4.3,82900.0,1,Sports & Luxury
+Porsche,Macan EV ,Electric,603.0,750.0,240.0,4.0,85000.0,1,Sports & Luxury
+Porsche,Cayenne Base,Petrol,335.0,450.0,245.0,5.9,72200.0,2,Premium
+Porsche,Cayenne E-Hybrid,Hybrid,455.0,700.0,253.0,4.8,91000.0,1,Sports & Luxury
+Porsche,Cayenne S Coupe,Petrol,434.0,550.0,263.0,4.7,94300.0,1,Sports & Luxury
+Porsche,Cayenne Turbo GT,Petrol,631.0,850.0,300.0,3.3,182150.0,1,Sports & Luxury
+Porsche,Cayenne Platinum Edition,Petrol,335.0,450.0,245.0,5.8,79000.0,2,Premium
+Porsche,Cayenne Turbo S E-Hybrid Coupe,Hybrid,670.0,900.0,295.0,3.6,167800.0,1,Sports & Luxury
+Porsche,Cayenne GTS Coupe,Petrol,453.0,620.0,270.0,4.5,111200.0,1,Sports & Luxury
+Porsche,Cayenne Diesel (Regional Markets),Diesel,262.0,580.0,221.0,7.3,69000.0,2,Premium
+Porsche,Cayenne S Hybrid,Hybrid,380.0,580.0,242.0,6.5,85500.0,2,Premium
+Porsche,Cayenne Coupe Turbo E-Hybrid,Hybrid,728.0,950.0,295.0,3.6,182900.0,1,Sports & Luxury
+Porsche,Taycan Base,Electric,321.0,345.0,230.0,5.4,86700.0,2,Premium
+Cadillac,CT4,Petrol,237.0,350.0,250.0,6.0,34395.0,2,Premium
+Cadillac,CT4-V,Petrol,325.0,500.0,260.0,4.9,46595.0,2,Premium
+Cadillac,CT5,Petrol,237.0,350.0,240.0,6.6,38195.0,2,Premium
+Cadillac,CT5-V,Petrol,360.0,550.0,250.0,4.6,50995.0,2,Premium
+Porsche,Taycan Cross Turismo 4,Electric,375.0,500.0,240.0,5.1,94800.0,2,Premium
+Porsche,Taycan Cross Turismo GTS,Electric,590.0,620.0,250.0,3.8,139400.0,1,Sports & Luxury
+Porsche,Taycan Sport Turismo Base,Electric,375.0,500.0,230.0,5.4,90500.0,2,Premium
+Porsche,Taycan Sport Turismo GTS,Electric,590.0,620.0,250.0,3.7,136700.0,1,Sports & Luxury
+Porsche,Taycan Turbo S Cross Turismo,Electric,750.0,1050.0,260.0,2.9,190000.0,1,Sports & Luxury
+Porsche,911 Carrera Base,Petrol,379.0,450.0,293.0,4.2,106100.0,1,Sports & Luxury
+Porsche,911 Carrera S Cabriolet,Petrol,443.0,530.0,304.0,3.9,129900.0,1,Sports & Luxury
+Porsche,911 Carrera 4,Petrol,379.0,450.0,293.0,4.4,113300.0,1,Sports & Luxury
+Porsche,911 Carrera 4 GTS,Petrol,473.0,570.0,311.0,3.3,137000.0,1,Sports & Luxury
+Porsche,911 Targa 4 GTS,Petrol,473.0,570.0,307.0,3.5,157300.0,1,Sports & Luxury
+Porsche,911 Turbo Cabriolet,Petrol,572.0,750.0,320.0,2.9,184100.0,1,Sports & Luxury
+Porsche,911 Turbo S Coupe,Petrol,640.0,800.0,330.0,2.7,207000.0,1,Sports & Luxury
+Porsche,911 GT3 Touring,Petrol,502.0,470.0,318.0,3.9,170000.0,1,Sports & Luxury
+Porsche,911 GT3 RS Clubsport,Petrol,525.0,465.0,296.0,3.2,223800.0,1,Sports & Luxury
+Porsche,911 Dakar Limited Edition,Petrol,473.0,570.0,240.0,3.4,222000.0,1,Sports & Luxury
+Porsche,911 Carrera GTS Lightweight,Petrol,473.0,570.0,311.0,3.2,145300.0,1,Sports & Luxury
+Porsche,911 Targa 4 Lightweight,Petrol,379.0,450.0,289.0,4.3,135500.0,1,Sports & Luxury
+Porsche,911 Turbo Exclusive Series,Petrol,607.0,750.0,330.0,2.9,258000.0,1,Sports & Luxury
+Porsche,911 GT2 RS,Petrol,700.0,750.0,340.0,2.8,293200.0,1,Sports & Luxury
+Porsche,911 GT3 Cup,Petrol,510.0,470.0,290.0,3.4,245000.0,1,Sports & Luxury
+Porsche,911 GT4 RS,Petrol,500.0,450.0,315.0,3.4,222000.0,1,Sports & Luxury
+Porsche,911 RSR (Motorsport Edition),Petrol,515.0,480.0,296.0,3.1,750000.0,1,Sports & Luxury
+Porsche,911 Sport Turismo,Petrol,379.0,450.0,293.0,4.4,116000.0,1,Sports & Luxury
+Porsche,911 Turbo Cabriolet Lightweight,Petrol,572.0,750.0,318.0,3.0,191300.0,1,Sports & Luxury
+Porsche,911 Dakar Sport,Petrol,473.0,570.0,240.0,3.5,233000.0,1,Sports & Luxury
+Tata Motors,Tiago,Petrol,86.0,113.0,170.0,13.0,8200.0,0,Everyday
+Tata Motors,Tiago EV,Electric,74.0,114.0,120.0,5.7,11000.0,0,Everyday
+Tata Motors,Altroz,Petrol/Diesel,89.0,200.0,170.0,12.0,10400.0,0,Everyday
+Tata Motors,Altroz DCA,Petrol,86.0,113.0,170.0,12.5,11300.0,0,Everyday
+Tata Motors,Altroz iTurbo,Petrol,110.0,140.0,180.0,10.0,12000.0,0,Everyday
+Tata Motors,Altroz CNG,CNG/Petrol,86.0,113.0,165.0,12.0,11800.0,0,Everyday
+Tata Motors,Tiago NRG,Petrol,86.0,113.0,170.0,13.5,9200.0,0,Everyday
+Tata Motors,Nano GenX,Petrol,37.0,51.0,105.0,29.0,4000.0,0,Everyday
+Tata Motors,Indica eV2,Diesel,70.0,140.0,155.0,16.0,6200.0,0,Everyday
+Tata Motors,Indica V2 Xeta,Petrol,65.0,100.0,140.0,16.0,5000.0,0,Everyday
+Tata Motors,Tigor,Petrol,86.0,113.0,170.0,13.0,9400.0,0,Everyday
+Tata Motors,Tigor EV,Electric,74.0,114.0,120.0,5.7,14500.0,0,Everyday
+Tata Motors,Zest,Diesel/Petrol,90.0,190.0,165.0,15.0,8700.0,0,Everyday
+Tata Motors,Indigo eCS,Diesel,70.0,140.0,155.0,16.5,6500.0,0,Everyday
+Cadillac,Escalade,Petrol,420.0,624.0,210.0,6.8,79295.0,2,Premium
+Tata Motors,Indigo Marina,Diesel/Petrol,85.0,135.0,150.0,17.0,8300.0,0,Everyday
+Tata Motors,Manza,Diesel/Petrol,90.0,200.0,160.0,14.0,9000.0,0,Everyday
+Tata Motors,Indigo LX,Diesel,70.0,140.0,150.0,17.0,7000.0,0,Everyday
+Tata Motors,Indigo GLX,Petrol,85.0,115.0,160.0,15.0,7200.0,0,Everyday
+Cadillac,Escalade ESV,Petrol,420.0,624.0,205.0,6.9,82295.0,2,Premium
+Tata Motors,Nexon,Petrol/Diesel,118.0,260.0,180.0,10.0,14000.0,0,Everyday
+Tata Motors,Nexon EV Max,Electric,143.0,250.0,140.0,9.0,25000.0,0,Everyday
+Tata Motors,Harrier,Diesel,168.0,350.0,180.0,11.0,23000.0,0,Everyday
+Tata Motors,Safari,Diesel,168.0,350.0,180.0,11.0,25500.0,0,Everyday
+Tata Motors,Punch,Petrol,86.0,113.0,160.0,16.0,10500.0,0,Everyday
+Tata Motors,Hexa,Diesel,154.0,400.0,180.0,12.0,20000.0,0,Everyday
+Tata Motors,Aria,Diesel,138.0,320.0,162.0,13.0,19000.0,0,Everyday
+Tata Motors,Sumo Gold,Diesel,85.0,250.0,125.0,17.6,15000.0,0,Everyday
+Tata Motors,Sumo Grande,Diesel,118.0,250.0,140.0,15.0,16500.0,0,Everyday
+Tata Motors,Nexon EV Prime,Electric,129.0,245.0,120.0,9.4,22000.0,0,Everyday
+Tata Motors,Tiago EV,Electric,74.0,114.0,120.0,5.7,11000.0,0,Everyday
+Tesla,Model S,Electric,670.0,967.0,250.0,3.1,88490.0,1,Sports & Luxury
+Tesla,Model S Plaid,Electric,1020.0,1400.0,322.0,2.1,108490.0,1,Sports & Luxury
+Tesla,Model 3,Electric,283.0,420.0,225.0,5.8,40240.0,2,Premium
+Tesla,Model 3 Performance,Electric,450.0,660.0,261.0,3.1,53240.0,1,Sports & Luxury
+Tesla,Model X,Electric,670.0,967.0,250.0,3.8,98490.0,1,Sports & Luxury
+Tesla,Model X Plaid,Electric,1020.0,1400.0,262.0,2.6,113490.0,1,Sports & Luxury
+Tesla,Model Y,Electric,346.0,498.0,217.0,5.0,47490.0,2,Premium
+Tesla,Model Y Long Range,Electric,384.0,559.0,217.0,4.8,50490.0,2,Premium
+Tesla,Cybertruck,Electric,800.0,1355.0,209.0,2.9,69900.0,1,Sports & Luxury
+Jeep,Wrangler,Petrol,285.0,353.0,180.0,6.8,35195.0,2,Premium
+Jeep,Wrangler Rubicon,Petrol,270.0,400.0,180.0,7.1,42100.0,2,Premium
+Jeep,Grand Cherokee,Petrol,293.0,352.0,209.0,7.0,41530.0,2,Premium
+Jeep,Grand Cherokee L,Petrol,293.0,352.0,209.0,7.2,43530.0,2,Premium
+Jeep,Cherokee,Petrol,180.0,230.0,195.0,8.5,37695.0,0,Everyday
+Jeep,Compass,Petrol,200.0,320.0,200.0,7.8,31590.0,2,Premium
+Jeep,Renegade,Petrol,177.0,285.0,200.0,8.7,28345.0,0,Everyday
+Jeep,Gladiator,Petrol,285.0,353.0,177.0,8.1,38775.0,2,Premium
+Jeep,Wagoneer,Petrol,392.0,548.0,190.0,7.4,63595.0,2,Premium
+Jeep,Grand Wagoneer,Petrol,471.0,617.0,190.0,6.0,91495.0,2,Premium
+Jeep,Grand Cherokee 4xe,Hybrid,375.0,637.0,210.0,6.0,59865.0,2,Premium
+Jeep,Wrangler 4xe,Hybrid,375.0,637.0,180.0,6.4,50695.0,2,Premium
+Jeep,Compass 4xe,Hybrid,240.0,270.0,200.0,7.3,46500.0,2,Premium
+Jeep,Renegade 4xe,Hybrid,240.0,270.0,200.0,7.5,44500.0,2,Premium
+Mazda,Mazda2,Petrol,108.0,142.0,180.0,10.2,20000.0,0,Everyday
+Jeep,Wagoneer S (Electric),Electric,600.0,850.0,177.0,4.5,80000.0,2,Premium
+Jeep,Gladiator Mojave Edition,Petrol,285.0,353.0,177.0,8.6,51570.0,2,Premium
+Jeep,Grand Cherokee Summit Reserve,Petrol,357.0,529.0,190.0,7.3,66575.0,2,Premium
+Jeep,Jeep Cherokee X Edition,Petrol,271.0,324.0,195.0,7.6,41295.0,2,Premium
+Jeep,Wrangler 392,Petrol,470.0,637.0,160.0,4.5,82495.0,2,Premium
+Cadillac,XT4,Petrol,235.0,350.0,220.0,7.6,37490.0,2,Premium
+Cadillac,XT5,Petrol,310.0,366.0,210.0,6.5,44195.0,2,Premium
+Cadillac,XT6,Petrol,310.0,366.0,210.0,6.9,48595.0,2,Premium
+Cadillac,Lyriq EV,Electric,340.0,440.0,190.0,5.7,58590.0,2,Premium
+Cadillac,Escalade V,Petrol,682.0,885.0,200.0,4.4,149990.0,1,Sports & Luxury
+Cadillac,Escalade Platinum,Petrol,420.0,624.0,210.0,6.8,104595.0,2,Premium
+Cadillac,CT5-V Blackwing,Petrol,668.0,893.0,320.0,3.4,92000.0,1,Sports & Luxury
+Cadillac,CT4-V Blackwing,Petrol,472.0,603.0,290.0,3.9,60495.0,1,Sports & Luxury
+Cadillac,XT4 Sport,Petrol,235.0,350.0,220.0,7.4,41390.0,2,Premium
+Cadillac,XT5 Sport,Petrol,310.0,366.0,210.0,6.5,51095.0,2,Premium
+Cadillac,XT6 Sport,Petrol,310.0,366.0,210.0,6.9,57095.0,2,Premium
+Cadillac,Lyriq Launch Edition,Electric,340.0,440.0,190.0,5.7,59990.0,2,Premium
+Cadillac,Lyriq EV Premium,Electric,500.0,620.0,210.0,4.5,64990.0,2,Premium
+Cadillac,CT5 Premium Luxury,Petrol,237.0,350.0,240.0,6.8,41290.0,2,Premium
+Chevrolet,Spark,Petrol,98.0,127.0,180.0,10.7,14595.0,0,Everyday
+Chevrolet,Sonic,Petrol,138.0,200.0,190.0,8.5,16720.0,0,Everyday
+Chevrolet,Malibu,Petrol,160.0,250.0,210.0,8.0,25000.0,0,Everyday
+Chevrolet,Camaro,Petrol,275.0,400.0,240.0,5.4,26400.0,2,Premium
+Chevrolet,Corvette,Petrol,495.0,637.0,312.0,3.0,65895.0,1,Sports & Luxury
+Chevrolet,Traverse,Petrol,310.0,360.0,210.0,7.0,35915.0,2,Premium
+Chevrolet,Equinox,Petrol,170.0,275.0,200.0,8.9,26600.0,0,Everyday
+Chevrolet,Blazer,Petrol,308.0,366.0,220.0,6.6,44000.0,2,Premium
+Chevrolet,Tahoe,Petrol,355.0,519.0,200.0,7.5,56995.0,2,Premium
+Chevrolet,Suburban,Petrol,355.0,519.0,190.0,7.6,59900.0,2,Premium
+Chevrolet,Colorado,Petrol,310.0,583.0,190.0,6.8,30695.0,2,Premium
+Chevrolet,Silverado 1500,Petrol,355.0,519.0,180.0,7.0,42795.0,2,Premium
+Chevrolet,Silverado 2500HD,Petrol,401.0,629.0,170.0,8.0,41500.0,2,Premium
+Chevrolet,Silverado 3500HD,Diesel,445.0,1234.0,160.0,8.5,45500.0,2,Premium
+Chevrolet,Bolt EV,Electric,200.0,360.0,150.0,6.5,27495.0,0,Everyday
+Chevrolet,Bolt EUV,Electric,200.0,360.0,150.0,7.0,28795.0,0,Everyday
+Chevrolet,Trailblazer,Petrol,155.0,236.0,200.0,9.4,23100.0,0,Everyday
+Chevrolet,Malibu Premier,Petrol,250.0,353.0,240.0,5.8,33500.0,2,Premium
+Chevrolet,Camaro ZL1,Petrol,650.0,881.0,318.0,3.5,67300.0,1,Sports & Luxury
+Chevrolet,Corvette Stingray,Petrol,495.0,637.0,312.0,3.0,65895.0,1,Sports & Luxury
+Chevrolet,Silverado 1500 High Country,Petrol,355.0,519.0,180.0,7.0,61595.0,2,Premium
+Chevrolet,Silverado 1500 Trail Boss,Petrol,355.0,519.0,180.0,7.0,55895.0,2,Premium
+Chevrolet,Silverado 1500 RST,Petrol,355.0,519.0,180.0,7.1,50895.0,2,Premium
+Chevrolet,Colorado ZR2,Diesel,181.0,500.0,160.0,9.1,48295.0,0,Everyday
+Chevrolet,Traverse Premier,Petrol,310.0,360.0,210.0,7.0,46600.0,2,Premium
+Chevrolet,Equinox Premier,Petrol,170.0,275.0,200.0,8.8,33400.0,0,Everyday
+Chevrolet,Blazer RS,Petrol,308.0,366.0,220.0,6.6,48900.0,2,Premium
+Chevrolet,Bolt EV 2LT,Electric,200.0,360.0,150.0,6.7,28795.0,0,Everyday
+Chevrolet,Camaro SS,Petrol,455.0,617.0,290.0,4.3,43500.0,1,Sports & Luxury
+Chevrolet,Corvette Grand Sport,Petrol,460.0,630.0,290.0,3.9,65900.0,1,Sports & Luxury
+Chevrolet,Traverse RS,Petrol,310.0,360.0,210.0,7.0,43700.0,2,Premium
+Chevrolet,Blazer Premier,Petrol,308.0,366.0,220.0,6.6,45000.0,2,Premium
+Chevrolet,Malibu LT,Petrol,160.0,250.0,210.0,8.5,25800.0,0,Everyday
+Chevrolet,Spark Activ,Petrol,98.0,127.0,180.0,11.0,17595.0,0,Everyday
+Chevrolet,Trax LT,Petrol,137.0,220.0,200.0,9.2,24100.0,0,Everyday
+Chevrolet,Equinox LT,Petrol,170.0,275.0,200.0,8.9,28400.0,0,Everyday
+Chevrolet,Silverado 3500HD High Country,Diesel,445.0,1234.0,160.0,8.5,75700.0,2,Premium
+Chevrolet,Colorado WT,Petrol,310.0,583.0,190.0,6.9,29200.0,2,Premium
+Chevrolet,Suburban High Country,Petrol,420.0,624.0,200.0,7.0,82400.0,2,Premium
+Chevrolet,Silverado Custom,Petrol,285.0,413.0,180.0,8.5,33900.0,2,Premium
+Chevrolet,Spark LS,Petrol,98.0,127.0,180.0,10.9,14395.0,0,Everyday
+Chevrolet,Traverse LT,Petrol,310.0,360.0,210.0,7.1,37200.0,2,Premium
+Chevrolet,Blazer LT,Petrol,193.0,255.0,200.0,9.0,36100.0,0,Everyday
+Chevrolet,Malibu Premier,Petrol,250.0,353.0,240.0,5.8,34500.0,2,Premium
+Chevrolet,Equinox RS,Petrol,170.0,275.0,200.0,8.8,31900.0,0,Everyday
+Chevrolet,Silverado 1500 Custom,Petrol,285.0,413.0,180.0,8.6,34900.0,2,Premium
+Chevrolet,Silverado 2500HD LTZ,Diesel,445.0,1234.0,160.0,8.4,56400.0,2,Premium
+Chevrolet,Tahoe RST,Petrol,355.0,519.0,180.0,7.4,64100.0,2,Premium
+Chevrolet,Suburban LT,Petrol,355.0,519.0,180.0,5.1,64400.0,2,Premium
+Chevrolet,Bolt EV Premier,Electric,200.0,360.0,150.0,6.5,31700.0,2,Premium
+Chevrolet,Tahoe LS,Petrol,355.0,519.0,180.0,7.5,56995.0,2,Premium
+Chevrolet,Tahoe LT,Petrol,355.0,519.0,180.0,7.4,62495.0,2,Premium
+Chevrolet,Tahoe RST,Petrol,355.0,519.0,180.0,7.4,64100.0,2,Premium
+Chevrolet,Tahoe Z71,Petrol,355.0,519.0,180.0,7.6,66700.0,2,Premium
+Chevrolet,Tahoe Premier,Petrol,420.0,624.0,200.0,6.8,71600.0,2,Premium
+Chevrolet,Tahoe High Country,Petrol,420.0,624.0,200.0,6.7,76700.0,2,Premium
+Chevrolet,Tahoe Midnight Edition,Petrol,355.0,519.0,180.0,7.5,65500.0,2,Premium
+Chevrolet,Tahoe Sport Edition,Petrol,420.0,624.0,200.0,6.8,70000.0,2,Premium
+GMC,Terrain,Petrol,175.0,275.0,190.0,9.5,29900.0,0,Everyday
+GMC,Acadia,Petrol,228.0,350.0,200.0,7.8,36800.0,2,Premium
+GMC,Yukon,Petrol,355.0,519.0,180.0,7.4,57400.0,2,Premium
+GMC,Yukon XL,Petrol,420.0,624.0,200.0,6.9,61100.0,2,Premium
+GMC,Canyon,Petrol,310.0,583.0,190.0,7.6,36900.0,2,Premium
+GMC,Sierra 1500,Petrol,355.0,519.0,180.0,7.3,37100.0,2,Premium
+GMC,Sierra 2500HD,Diesel,401.0,629.0,175.0,7.5,43900.0,2,Premium
+GMC,Sierra 3500HD,Diesel,445.0,1234.0,175.0,7.4,49000.0,2,Premium
+GMC,Hummer EV Pickup,Electric,625.0,1000.0,170.0,3.0,108700.0,1,Sports & Luxury
+GMC,Hummer EV SUV,Electric,625.0,1000.0,170.0,3.5,105600.0,1,Sports & Luxury
+GMC,Yukon Denali,Petrol,420.0,624.0,200.0,6.8,72800.0,2,Premium
+GMC,Sierra Denali,Petrol,420.0,624.0,190.0,6.7,66800.0,2,Premium
+GMC,Terrain AT4,Petrol,175.0,275.0,190.0,9.6,36500.0,0,Everyday
+GMC,Acadia AT4,Petrol,310.0,366.0,210.0,7.6,41400.0,2,Premium
+GMC,Sierra 1500 AT4,Petrol,355.0,519.0,180.0,7.4,53800.0,2,Premium
+GMC,Sierra 2500HD Denali,Diesel,401.0,1234.0,175.0,7.5,72200.0,2,Premium
+GMC,Sierra Elevation,Petrol,310.0,583.0,190.0,7.6,45000.0,2,Premium
+GMC,Canyon AT4,Petrol,310.0,583.0,190.0,7.5,43900.0,2,Premium
+GMC,Canyon Denali,Petrol,310.0,583.0,190.0,7.5,48000.0,2,Premium
+GMC,Yukon XL Denali Ultimate,Petrol,420.0,624.0,200.0,6.7,93800.0,2,Premium
+GMC,Terrain Denali,Petrol,175.0,275.0,190.0,9.5,38600.0,0,Everyday
+GMC,Acadia Denali,Petrol,310.0,366.0,210.0,6.5,54300.0,2,Premium
+GMC,Yukon AT4,Petrol,355.0,519.0,210.0,7.1,71505.0,2,Premium
+GMC,Yukon XL AT4,Petrol,355.0,519.0,210.0,7.3,73305.0,2,Premium
+GMC,Sierra 1500 Elevation,Petrol,310.0,569.0,180.0,7.0,52000.0,2,Premium
+GMC,Sierra 1500 SLT,Petrol,355.0,519.0,180.0,6.8,56000.0,2,Premium
+GMC,Sierra 2500HD AT4,Petrol,401.0,629.0,170.0,7.5,70000.0,2,Premium
+GMC,Sierra 3500HD AT4,Petrol,401.0,629.0,170.0,7.7,72000.0,2,Premium
+GMC,Canyon Elevation,Petrol,200.0,259.0,175.0,8.5,36300.0,0,Everyday
+GMC,Canyon Denali Black Edition,Petrol,308.0,373.0,180.0,6.9,44000.0,2,Premium
+GMC,Sierra 1500 Denali Ultimate,Petrol,420.0,624.0,200.0,5.8,80000.0,2,Premium
+GMC,Yukon XL Denali Reserve,Petrol,420.0,624.0,210.0,6.0,82000.0,2,Premium
+GMC,Terrain Elevation Edition,Petrol,170.0,275.0,200.0,9.3,28700.0,0,Everyday
+GMC,Acadia Black Edition,Petrol,310.0,366.0,210.0,6.5,45000.0,2,Premium
+GMC,Sierra Denali CarbonPro,Petrol,420.0,624.0,200.0,5.8,65000.0,2,Premium
+GMC,Yukon Denali Performance,Petrol,420.0,624.0,210.0,6.0,76805.0,2,Premium
+GMC,Sierra 2500HD Denali Black Edition,Petrol,401.0,629.0,170.0,7.5,75000.0,2,Premium
+GMC,Canyon AT4X,Petrol,308.0,373.0,180.0,6.9,50000.0,2,Premium
+GMC,Yukon XL SLT,Petrol,355.0,519.0,210.0,7.3,65000.0,2,Premium
+GMC,Sierra 1500 Pro,Petrol,285.0,413.0,180.0,7.5,37700.0,2,Premium
+GMC,Sierra 2500HD Pro,Petrol,401.0,629.0,170.0,7.7,60000.0,2,Premium
+GMC,Sierra 3500HD Pro,Petrol,401.0,629.0,170.0,7.8,62000.0,2,Premium
+GMC,Terrain SLT,Petrol,170.0,275.0,200.0,9.4,31000.0,0,Everyday
+GMC,Acadia SLE,Petrol,310.0,366.0,210.0,6.6,40000.0,2,Premium
+GMC,Canyon SLT,Petrol,200.0,259.0,175.0,8.6,38000.0,0,Everyday
+GMC,Yukon XL Elevation,Petrol,355.0,519.0,210.0,7.4,75000.0,2,Premium
+GMC,Sierra 1500 AT4X,Petrol,420.0,624.0,200.0,5.9,82000.0,2,Premium
+GMC,Sierra EV Denali,Electric,754.0,1064.0,170.0,4.5,108700.0,1,Sports & Luxury
+GMC,Canyon AT4X Edition 1,Petrol,308.0,373.0,180.0,6.8,55000.0,2,Premium
+GMC,Yukon Denali Ultimate Black,Petrol,420.0,624.0,210.0,6.0,90000.0,2,Premium
+GMC,Sierra HD Denali Reserve,Petrol,401.0,629.0,170.0,7.5,85000.0,2,Premium
+GMC,Acadia Denali Ultimate,Petrol,310.0,366.0,210.0,6.5,60000.0,2,Premium
+GMC,Terrain All-Terrain Edition,Petrol,170.0,275.0,200.0,9.3,35000.0,0,Everyday
+GMC,Yukon Trailering Edition,Petrol,355.0,519.0,210.0,7.5,78000.0,2,Premium
+Kia,Rio,Petrol,120.0,151.0,180.0,10.3,17000.0,0,Everyday
+Kia,Rio 5-Door,Petrol,120.0,151.0,180.0,10.3,18000.0,0,Everyday
+Kia,Seltos Nightfall Edition,Petrol,175.0,264.0,210.0,7.5,28000.0,2,Premium
+Peugeot,508 PSE (Peugeot Sport Engineered),Hybrid,360.0,520.0,250.0,5.2,55000.0,2,Premium
+Kia,Sorento X-Line,Petrol,277.0,421.0,220.0,7.0,42000.0,2,Premium
+Kia,Telluride SX,Petrol,291.0,355.0,240.0,7.0,50000.0,2,Premium
+Kia,Forte LXS,Petrol,147.0,179.0,190.0,9.2,19000.0,0,Everyday
+Kia,K5 EX,Petrol,180.0,264.0,220.0,7.8,28500.0,2,Premium
+Kia,Niro Plug-In Hybrid,Hybrid,139.0,265.0,180.0,10.5,33000.0,0,Everyday
+Kia,EV6 Wind,Electric,225.0,350.0,190.0,5.2,50000.0,2,Premium
+Kia,Soul Turbo,Petrol,201.0,264.0,200.0,6.5,28000.0,2,Premium
+Kia,Seltos SX,Petrol,175.0,264.0,210.0,7.5,28500.0,2,Premium
+Kia,Stinger Scorpion Edition,Petrol,300.0,422.0,270.0,5.0,55000.0,2,Premium
+Kia,Sorento Hybrid SX Prestige,Hybrid,227.0,352.0,200.0,7.9,47000.0,2,Premium
+Kia,Carnival EX,Petrol,290.0,355.0,220.0,8.0,42500.0,2,Premium
+Kia,Telluride Nightfall Edition,Petrol,291.0,355.0,240.0,7.0,51000.0,2,Premium
+Peugeot,508 Plug-In Hybrid,Hybrid,225.0,360.0,210.0,7.5,44000.0,2,Premium
+Kia,EV6 First Edition,Electric,320.0,450.0,230.0,5.0,58000.0,2,Premium
+Kia,Niro Touring,Hybrid,139.0,265.0,180.0,10.5,33000.0,0,Everyday
+Kia,Forte GT-Line,Petrol,201.0,264.0,200.0,6.5,25000.0,2,Premium
+Kia,Seltos EX,Petrol,146.0,179.0,190.0,9.0,23500.0,0,Everyday
+Peugeot,3008 Plug-In Hybrid,Hybrid,225.0,360.0,210.0,7.0,42000.0,2,Premium
+Kia,Sorento LX,Petrol,191.0,246.0,210.0,8.5,35500.0,0,Everyday
+Kia,Telluride EX,Petrol,291.0,355.0,240.0,7.0,44000.0,2,Premium
+Kia,Soul EX,Petrol,147.0,179.0,190.0,9.5,22000.0,0,Everyday
+Kia,Forte FE,Petrol,147.0,179.0,190.0,9.2,18500.0,0,Everyday
+Kia,K5 GT-Line,Petrol,180.0,264.0,220.0,7.8,29000.0,2,Premium
+Kia,Carnival LXS,Petrol,290.0,355.0,220.0,8.0,39500.0,2,Premium
+Kia,EV6 Light,Electric,225.0,350.0,190.0,5.2,46000.0,2,Premium
+Kia,Niro EX,Hybrid,139.0,265.0,180.0,10.5,30000.0,0,Everyday
+Kia,Stinger GT,Petrol,365.0,510.0,270.0,4.7,51500.0,2,Premium
+Kia,Sorento SX Prestige,Hybrid,227.0,352.0,200.0,7.9,48000.0,2,Premium
+Kia,Telluride SX Prestige,Petrol,291.0,355.0,240.0,7.0,52000.0,2,Premium
+Peugeot,508 Hybrid4,Hybrid,300.0,520.0,235.0,6.0,47000.0,2,Premium
+Kia,EV6 GT Performance,Electric,577.0,740.0,260.0,3.5,65000.0,1,Sports & Luxury
+Kia,Niro SX Touring,Hybrid,139.0,265.0,180.0,10.5,34500.0,0,Everyday
+Kia,Carnival SX Prestige,Petrol,290.0,355.0,220.0,8.0,47000.0,2,Premium
+Kia,Seltos SX Turbo,Petrol,175.0,264.0,210.0,7.5,32000.0,2,Premium
+Kia,Forte EX Premium,Petrol,147.0,179.0,190.0,9.2,22500.0,0,Everyday
+Kia,Soul EX Designer Edition,Petrol,147.0,179.0,190.0,9.5,23500.0,0,Everyday
+Kia,Rio S,Petrol,120.0,151.0,180.0,10.3,17500.0,0,Everyday
+Kia,Rio 5-Door S,Petrol,120.0,151.0,180.0,10.3,18000.0,0,Everyday
+Kia,Soul S,Petrol,147.0,179.0,190.0,9.5,20500.0,0,Everyday
+Kia,Seltos LX,Petrol,146.0,179.0,190.0,9.2,23000.0,0,Everyday
+Peugeot,3008 Hybrid4,Hybrid,300.0,520.0,235.0,6.0,45000.0,2,Premium
+Kia,Sorento Hybrid EX,Hybrid,227.0,352.0,200.0,7.9,47000.0,2,Premium
+Kia,Telluride LX,Petrol,291.0,355.0,240.0,7.0,41500.0,2,Premium
+Kia,Carnival MPV EX,Petrol,290.0,355.0,220.0,8.0,43500.0,2,Premium
+Kia,EV6 AWD GT-Line,Electric,320.0,450.0,230.0,5.0,60000.0,2,Premium
+Kia,Forte GT Turbo,Petrol,201.0,264.0,200.0,6.5,25500.0,2,Premium
+Kia,Soul GT Designer Edition,Petrol,147.0,179.0,190.0,9.5,23000.0,0,Everyday
+Kia,Seltos X-Line Turbo,Petrol,175.0,264.0,210.0,7.5,30000.0,2,Premium
+Peugeot,e-2008 GT,Electric,136.0,260.0,200.0,8.5,40000.0,0,Everyday
+Kia,Telluride Limited Edition,Petrol,291.0,355.0,240.0,7.0,53000.0,2,Premium
+Kia,Stinger GT-Line,Petrol,300.0,422.0,270.0,5.0,50000.0,2,Premium
+Kia,Carnival Special Edition,Petrol,290.0,355.0,220.0,8.0,45500.0,2,Premium
+Kia,Niro SX Hybrid,Hybrid,139.0,265.0,180.0,10.5,36000.0,0,Everyday
+Kia,EV6 First Edition AWD,Electric,320.0,450.0,230.0,5.0,62000.0,2,Premium
+Kia,Sorento X-Pro Hybrid,Hybrid,227.0,352.0,200.0,7.8,49000.0,2,Premium
+Kia,Forte Limited Edition,Petrol,147.0,179.0,190.0,9.2,22500.0,0,Everyday
+Bugatti,Chiron,Petrol,1500.0,1600.0,420.0,2.5,3000000.0,4,Hypercar
+Bugatti,Chiron Pur Sport,Petrol,1500.0,1600.0,350.0,2.3,3300000.0,4,Hypercar
+Bugatti,Chiron Super Sport,Petrol,1600.0,1600.0,490.0,2.4,3500000.0,4,Hypercar
+Bugatti,Chiron Sport,Petrol,1500.0,1600.0,420.0,2.4,3300000.0,4,Hypercar
+Bugatti,Chiron Noire,Petrol,1500.0,1600.0,420.0,2.5,3300000.0,4,Hypercar
+Bugatti,Divo,Petrol,1500.0,1600.0,380.0,2.4,5800000.0,4,Hypercar
+Bugatti,Centodieci,Petrol,1600.0,1600.0,380.0,2.4,9000000.0,4,Hypercar
+Bugatti,La Voiture Noire,Petrol,1500.0,1600.0,420.0,2.5,18000000.0,4,Hypercar
+Bugatti,Bolide,Petrol,1850.0,1600.0,500.0,2.2,4500000.0,4,Hypercar
+Bugatti,Mistral,Petrol,1600.0,1600.0,420.0,2.4,5000000.0,4,Hypercar
+Volvo,Volvo FH,Diesel,540.0,2600.0,120.0,15.0,120000.0,3,Heavy-duty
+Volvo,Volvo FH16,Diesel,750.0,3500.0,120.0,14.5,160000.0,3,Heavy-duty
+Volvo,Volvo FM,Diesel,460.0,2200.0,110.0,16.0,100000.0,3,Heavy-duty
+Volvo,Volvo FMX,Diesel,500.0,2500.0,110.0,16.5,110000.0,3,Heavy-duty
+Volvo,Volvo VNL,Diesel,500.0,2400.0,120.0,15.0,125000.0,3,Heavy-duty
+Volvo,Volvo VNR,Diesel,400.0,1800.0,110.0,17.0,95000.0,3,Heavy-duty
+Volvo,Volvo VHD,Diesel,500.0,2500.0,100.0,18.0,120000.0,3,Heavy-duty
+Volvo,Volvo FE,Diesel,280.0,1200.0,90.0,20.0,85000.0,3,Heavy-duty
+Volvo,Volvo FL,Diesel,180.0,800.0,80.0,22.0,75000.0,0,Everyday
+Jaguar Land Rover,Jaguar F-Type,Petrol,335.0,450.0,260.0,5.1,70000.0,2,Premium
+Jaguar Land Rover,Jaguar XE,Petrol,250.0,365.0,250.0,6.5,45000.0,2,Premium
+Jaguar Land Rover,Jaguar XF,Petrol,250.0,365.0,250.0,6.5,50000.0,2,Premium
+Jaguar Land Rover,Jaguar XJ,Petrol,300.0,400.0,250.0,6.0,85000.0,2,Premium
+Jaguar Land Rover,Jaguar E-PACE,Petrol,200.0,430.0,230.0,7.0,50000.0,2,Premium
+Jaguar Land Rover,Jaguar I-PACE,Electric,400.0,696.0,200.0,4.8,70000.0,2,Premium
+Jaguar Land Rover,Jaguar F-PACE,Petrol,340.0,480.0,230.0,7.2,65000.0,2,Premium
+Jaguar Land Rover,Jaguar X-TYPE,Petrol,160.0,215.0,215.0,9.0,40000.0,0,Everyday
+Jaguar Land Rover,Jaguar F-PACE R-Dynamic,Petrol,340.0,480.0,250.0,5.4,65000.0,2,Premium
+Jaguar Land Rover,Jaguar XE R-Dynamic,Petrol,340.0,450.0,250.0,5.4,60000.0,2,Premium
+Jaguar Land Rover,Jaguar F-Type SVR,Petrol,575.0,700.0,320.0,3.7,120000.0,1,Sports & Luxury
+Jaguar Land Rover,Jaguar I-PACE Electric Performance,Electric,400.0,696.0,200.0,4.5,85000.0,2,Premium
+Jaguar Land Rover,Jaguar F-PACE SVR,Petrol,550.0,700.0,283.0,4.0,85000.0,1,Sports & Luxury
+Jaguar Land Rover,Jaguar XE S,Petrol,340.0,450.0,250.0,5.3,55000.0,2,Premium
+Jaguar Land Rover,Jaguar XF R-Dynamic,Petrol,340.0,480.0,250.0,5.4,65000.0,2,Premium
+Jaguar Land Rover,Jaguar XJ LWB (Long Wheelbase),Petrol,300.0,400.0,250.0,6.0,90000.0,2,Premium
+Jaguar Land Rover,Jaguar F-Type Heritage Edition,Petrol,550.0,680.0,300.0,3.9,110000.0,1,Sports & Luxury
+Jaguar Land Rover,Jaguar E-PACE S,Petrol,200.0,430.0,230.0,7.0,50000.0,2,Premium
+Jaguar Land Rover,Jaguar I-PACE HSE,Electric,400.0,696.0,200.0,4.5,90000.0,2,Premium
+Jaguar Land Rover,Jaguar F-Type V8 R,Petrol,550.0,680.0,300.0,3.9,100000.0,1,Sports & Luxury
+Jaguar Land Rover,Jaguar F-Type R-Dynamic,Petrol,300.0,400.0,250.0,5.1,70000.0,2,Premium
+Jaguar Land Rover,Jaguar XE P300 R-Dynamic,Petrol,300.0,400.0,250.0,5.5,55000.0,2,Premium
+Jaguar Land Rover,Jaguar XF Sportbrake,Petrol,250.0,400.0,250.0,6.5,60000.0,2,Premium
+Jaguar Land Rover,Jaguar I-PACE EV400 HSE,Electric,400.0,696.0,200.0,4.5,85000.0,2,Premium
+Jaguar Land Rover,Jaguar F-PACE S 30t AWD,Petrol,247.0,365.0,225.0,6.4,60000.0,2,Premium
+Jaguar Land Rover,Jaguar E-PACE R-Dynamic,Petrol,246.0,430.0,230.0,6.8,55000.0,2,Premium
+Jaguar Land Rover,Jaguar XJ50,Petrol,300.0,400.0,250.0,6.0,80000.0,2,Premium
+Jaguar Land Rover,Jaguar F-Type 75th Anniversary Edition,Petrol,550.0,680.0,300.0,3.9,100000.0,1,Sports & Luxury
+Jaguar Land Rover,Jaguar F-PACE S AWD,Petrol,340.0,480.0,250.0,5.4,65000.0,2,Premium
+Jaguar Land Rover,Jaguar XE SE,Petrol,250.0,365.0,240.0,6.2,50000.0,2,Premium
+Jaguar Land Rover,Jaguar F-Type V6 S Convertible,Petrol,380.0,460.0,280.0,4.8,80000.0,2,Premium
+Jaguar Land Rover,Jaguar XE R-Sport AWD,Petrol,300.0,400.0,250.0,5.5,55000.0,2,Premium
+Jaguar Land Rover,Jaguar XF Portfolio AWD,Petrol,340.0,450.0,250.0,5.4,60000.0,2,Premium
+Jaguar Land Rover,Jaguar F-Type Coupe R,Petrol,550.0,680.0,300.0,3.9,100000.0,1,Sports & Luxury
+Jaguar Land Rover,Jaguar I-PACE First Edition,Electric,400.0,696.0,200.0,4.5,85000.0,2,Premium
+Jaguar Land Rover,Jaguar F-PACE Prestige AWD,Petrol,340.0,480.0,250.0,5.4,65000.0,2,Premium
+Jaguar Land Rover,Jaguar XJ Supercharged,Petrol,510.0,625.0,280.0,4.2,90000.0,1,Sports & Luxury
+Jaguar Land Rover,Jaguar F-Type P450 AWD,Petrol,450.0,600.0,290.0,4.0,90000.0,1,Sports & Luxury
+Jaguar Land Rover,Jaguar F-PACE P400e Plug-in Hybrid,Plug-in Hybrid,398.0,640.0,220.0,5.1,75000.0,2,Premium
+Jaguar Land Rover,Jaguar F-Type P300 Coupe,Petrol,300.0,400.0,250.0,5.5,60000.0,2,Premium
+Acura,NSX Type S,Hybrid,600.0,666.0,307.0,2.9,157000.0,1,Sports & Luxury
+Acura,TLX PMC Edition,Petrol,290.0,362.0,250.0,5.7,62000.0,2,Premium
+Acura,MDX Advance,Petrol,290.0,362.0,190.0,6.0,60000.0,2,Premium
+Acura,RDX Technology,Petrol,272.0,400.0,210.0,6.6,45000.0,2,Premium
+Acura,ILX Premium,Petrol,201.0,180.0,200.0,6.6,30000.0,2,Premium
+Acura,TLX A-Spec,Petrol,290.0,362.0,250.0,5.7,50000.0,2,Premium
+Acura,RDX SH-AWD,Petrol,272.0,400.0,210.0,6.6,50000.0,2,Premium
+Acura,MDX SH-AWD,Petrol,290.0,362.0,190.0,6.0,55000.0,2,Premium
+Acura,RDX Platinum Elite,Petrol,272.0,400.0,210.0,6.6,55000.0,2,Premium
+Acura,TLX A-Spec Sedan,Petrol,290.0,362.0,250.0,5.7,50000.0,2,Premium
+Acura,TLX 2.4L,Petrol,206.0,247.0,210.0,6.0,35000.0,2,Premium
+Acura,MDX Hybrid,Hybrid,321.0,335.0,190.0,6.0,55000.0,2,Premium
+Acura,RDX Hybrid,Hybrid,247.0,400.0,210.0,6.6,50000.0,2,Premium
+Acura,ILX Technology Package,Petrol,201.0,180.0,200.0,6.6,30000.0,2,Premium
+Acura,NSX GT3 (Track Version),Hybrid,500.0,600.0,300.0,3.0,150000.0,1,Sports & Luxury
+Acura,RDX Turbo AWD,Petrol,272.0,400.0,210.0,6.6,45000.0,2,Premium
+Acura,TLX 3.5L V6,Petrol,290.0,362.0,250.0,5.7,50000.0,2,Premium
+Acura,ILX Special Edition,Petrol,201.0,180.0,200.0,6.6,30000.0,2,Premium
+Acura,MDX SH-AWD w/Technology Package,Petrol,290.0,362.0,190.0,6.0,55000.0,2,Premium
+Acura,NSX 3.5L Hybrid Coupe,Hybrid,537.0,666.0,307.0,2.9,157000.0,1,Sports & Luxury
+Acura,MDX Elite,Petrol,290.0,362.0,190.0,6.0,58000.0,2,Premium
+Acura,TLX V6 Advance,Petrol,290.0,362.0,250.0,5.7,46000.0,2,Premium
+Acura,NSX Carbon Edition,Hybrid,537.0,666.0,307.0,2.9,157000.0,1,Sports & Luxury
+Acura,RDX Turbo SH-AWD,Petrol,272.0,400.0,210.0,6.6,42000.0,2,Premium
+Acura,ILX Technology Plus,Petrol,201.0,180.0,200.0,6.6,28000.0,2,Premium
+Acura,TLX Type S PMC Edition,Petrol,355.0,480.0,250.0,5.1,54000.0,2,Premium
+Acura,MDX Sport Hybrid,Hybrid,321.0,335.0,190.0,6.0,52000.0,2,Premium
+Peugeot,208,Petrol,82.0,160.0,180.0,10.5,22000.0,0,Everyday
+Peugeot,2008,Petrol,100.0,205.0,190.0,9.0,25000.0,0,Everyday
+Peugeot,301,Petrol,115.0,150.0,185.0,10.0,23500.0,0,Everyday
+Peugeot,308,Petrol,130.0,230.0,200.0,8.0,28000.0,0,Everyday
+Peugeot,3008,Petrol,180.0,400.0,210.0,7.5,32000.0,2,Premium
+Peugeot,5008,Diesel,165.0,400.0,200.0,9.5,35000.0,0,Everyday
+Peugeot,508,Petrol,180.0,300.0,235.0,8.0,35500.0,2,Premium
+Peugeot,Partner,Diesel,75.0,200.0,160.0,12.0,22500.0,0,Everyday
+Peugeot,Expert,Diesel,120.0,300.0,180.0,10.0,30000.0,0,Everyday
+Peugeot,Boxer,Diesel,140.0,340.0,160.0,11.0,32000.0,0,Everyday
+Peugeot,e-208,Electric,136.0,260.0,150.0,8.1,35000.0,0,Everyday
+Peugeot,e-2008,Electric,136.0,260.0,150.0,8.5,38000.0,0,Everyday
+Peugeot,208 GTI,Petrol,208.0,300.0,230.0,6.5,28000.0,2,Premium
+Peugeot,308 GTI,Petrol,270.0,330.0,250.0,6.0,35000.0,2,Premium
+Peugeot,508 PSE (Peugeot Sport Engineered),Hybrid,360.0,520.0,250.0,5.2,55000.0,2,Premium
+Peugeot,308 Allure,Petrol,130.0,230.0,205.0,9.3,25000.0,0,Everyday
+Peugeot,2008 Allure,Petrol,130.0,230.0,200.0,9.7,27000.0,0,Everyday
+Peugeot,3008 Allure,Petrol,180.0,250.0,210.0,8.0,30000.0,2,Premium
+Peugeot,5008 Allure,Petrol,180.0,250.0,200.0,8.5,33000.0,0,Everyday
+Peugeot,508 Allure,Petrol,180.0,250.0,225.0,8.0,35000.0,2,Premium
+Peugeot,3008 GT,Petrol,200.0,280.0,220.0,7.5,35000.0,2,Premium
+Peugeot,508 GT,Petrol,225.0,300.0,235.0,6.8,40000.0,2,Premium
+Peugeot,3008 GT Hybrid,Hybrid,300.0,400.0,235.0,6.0,45000.0,2,Premium
+Peugeot,5008 GT Hybrid,Hybrid,300.0,400.0,210.0,6.5,48000.0,2,Premium
+Peugeot,208 Allure Premium,Petrol,130.0,230.0,200.0,9.5,28000.0,0,Everyday
+Peugeot,Partner Tepee,Diesel,100.0,260.0,170.0,12.0,25000.0,0,Everyday
+Peugeot,Expert L2H1,Diesel,120.0,320.0,160.0,13.0,30000.0,0,Everyday
+Peugeot,Boxer L2H2,Diesel,130.0,350.0,140.0,14.0,35000.0,0,Everyday
+Peugeot,Partner Electric,Electric,136.0,260.0,130.0,9.0,40000.0,0,Everyday
+Peugeot,Expert Electric,Electric,136.0,260.0,130.0,9.5,45000.0,0,Everyday
+Peugeot,208 PSE (Peugeot Sport Engineered),Hybrid,225.0,360.0,250.0,5.5,45000.0,2,Premium
+Peugeot,308 PSE,Hybrid,360.0,520.0,250.0,5.0,55000.0,2,Premium
+Peugeot,508 PSE,Hybrid,360.0,520.0,250.0,5.2,60000.0,2,Premium
+Peugeot,3008 PSE,Hybrid,300.0,400.0,235.0,6.0,50000.0,2,Premium
+Peugeot,2008 Active,Petrol,100.0,205.0,190.0,11.2,22000.0,0,Everyday
+Peugeot,3008 Active,Petrol,130.0,240.0,200.0,10.0,30000.0,0,Everyday
+Peugeot,5008 Active,Petrol,130.0,240.0,190.0,10.5,33000.0,0,Everyday
+Peugeot,3008 Allure Premium,Petrol,130.0,240.0,200.0,9.8,32000.0,0,Everyday
+Peugeot,5008 Allure Premium,Petrol,130.0,240.0,190.0,10.2,35000.0,0,Everyday
+Peugeot,3008 GT Line,Petrol,180.0,250.0,210.0,8.5,35000.0,0,Everyday
+Peugeot,5008 GT Line,Petrol,180.0,250.0,200.0,9.0,38000.0,0,Everyday
+Peugeot,2008 GT,Petrol,130.0,230.0,200.0,9.3,25000.0,0,Everyday
+Peugeot,5008 GT,Petrol,180.0,250.0,210.0,8.2,40000.0,2,Premium
+Peugeot,508 SW (Station Wagon),Petrol,180.0,300.0,220.0,8.4,35000.0,2,Premium
+Peugeot,508 Saloon,Petrol,180.0,300.0,210.0,8.6,37000.0,2,Premium
+Peugeot,308 Saloon,Petrol,130.0,230.0,200.0,9.0,28000.0,0,Everyday
+Peugeot,301 Sedan,Petrol,82.0,115.0,180.0,12.0,20000.0,0,Everyday
+Peugeot,208 Sedan,Petrol,100.0,205.0,190.0,11.2,22000.0,0,Everyday
+Ford,Fusion (Mondeo),Petrol/Hybrid,250.0,400.0,220.0,7.5,40000.0,2,Premium
+Ford,Taurus,Petrol,365.0,500.0,220.0,6.5,45000.0,2,Premium
+Ford,Fiesta,Petrol,200.0,290.0,200.0,7.0,25000.0,2,Premium
+Ford,Focus,Petrol,300.0,400.0,220.0,6.5,30000.0,2,Premium
+Ford,KA+,Petrol,85.0,140.0,165.0,10.5,15000.0,0,Everyday
+Ford,EcoSport,Petrol,166.0,200.0,180.0,9.0,25000.0,0,Everyday
+Ford,Escape (Kuga),Petrol/Hybrid,200.0,230.0,190.0,7.5,38000.0,2,Premium
+Ford,Edge,Petrol,335.0,475.0,200.0,6.5,45000.0,2,Premium
+Ford,Explorer,Petrol,400.0,500.0,200.0,6.0,55000.0,2,Premium
+Ford,Expedition,Petrol,400.0,800.0,180.0,6.5,75000.0,2,Premium
+Ford,Bronco,Petrol,310.0,600.0,200.0,7.5,55000.0,2,Premium
+Ford,Bronco Sport,Petrol,250.0,375.0,185.0,7.0,38000.0,2,Premium
+Ford,F-150,Petrol/Diesel,450.0,700.0,200.0,6.5,75000.0,2,Premium
+Ford,F-250 Super Duty,Petrol/Diesel,475.0,1050.0,180.0,7.0,70000.0,2,Premium
+Ford,F-350 Super Duty,Diesel,475.0,1200.0,180.0,8.0,75000.0,2,Premium
+Ford,Maverick,Hybrid/Petrol,250.0,380.0,180.0,8.0,30000.0,2,Premium
+Ford,Ranger,Petrol/Diesel,325.0,540.0,180.0,7.0,45000.0,2,Premium
+Ford,Mustang Mach-E,Electric,480.0,430.0,180.0,3.5,61000.0,2,Premium
+Ford,F-150 Lightning,Electric,452.0,1051.0,180.0,4.5,90000.0,2,Premium
+Ford,Escape Hybrid,Hybrid,200.0,210.0,180.0,7.7,38000.0,0,Everyday
+Ford,Explorer Hybrid,Hybrid,318.0,500.0,180.0,7.5,55000.0,2,Premium
+Ford,Mustang,Petrol,450.0,530.0,250.0,4.3,55000.0,2,Premium
+Ford,GT,Petrol,660.0,746.0,348.0,3.0,500000.0,1,Sports & Luxury
+Ford,Focus ST,Petrol,280.0,420.0,250.0,5.7,30000.0,2,Premium
+Ford,Fiesta ST,Petrol,200.0,290.0,230.0,6.5,23000.0,2,Premium
+Ford,Bronco Raptor,Petrol,400.0,583.0,220.0,5.5,70000.0,2,Premium
+Ford,Ranger Raptor,Petrol,392.0,583.0,200.0,6.0,45000.0,2,Premium
+Ford,F-150 Raptor,Petrol,450.0,691.0,200.0,5.0,70000.0,2,Premium
+Ford,Puma,Petrol,123.0,200.0,191.0,9.6,28000.0,0,Everyday
+Ford,Territory,Petrol,140.0,225.0,180.0,11.0,32000.0,0,Everyday
+Ford,Everest,Diesel,210.0,500.0,190.0,10.5,52000.0,0,Everyday
+Ford,Flex,Petrol,287.0,345.0,200.0,7.9,31000.0,2,Premium
+Ford,Transit,Diesel,170.0,405.0,160.0,12.0,43455.0,0,Everyday
+Ford,Transit Connect,Petrol,162.0,200.0,175.0,10.5,29365.0,0,Everyday
+Ford,F-450 Super Duty,Diesel,475.0,1424.0,165.0,8.5,61625.0,2,Premium
+Ford,F-550 Super Duty,Diesel,475.0,1424.0,165.0,8.8,64540.0,2,Premium
+Ford,Mustang Shelby GT500,Petrol,760.0,847.0,290.0,3.5,79420.0,1,Sports & Luxury
+Ford,Mustang Shelby GT350,Petrol,526.0,582.0,280.0,4.0,59140.0,1,Sports & Luxury
+Ford,F-150 Platinum,Petrol,400.0,678.0,180.0,6.5,64695.0,2,Premium
+Ford,F-150 Limited,Petrol,450.0,678.0,190.0,6.1,84910.0,2,Premium
+Ford,Explorer Platinum,Petrol,400.0,563.0,230.0,6.0,56505.0,2,Premium
+Ford,Expedition King Ranch,Petrol,440.0,691.0,210.0,6.8,79560.0,2,Premium
+Ford,Transit Custom,Diesel,130.0,385.0,160.0,12.5,35000.0,0,Everyday
+Ford,E-Series Cutaway,Petrol,350.0,569.0,140.0,13.0,36000.0,0,Everyday
+Ford,Transit Chassis Cab,Diesel,170.0,405.0,160.0,11.5,37000.0,0,Everyday
+Ford,Transit Electric (E-Transit),Electric,266.0,430.0,140.0,9.0,52000.0,0,Everyday
+Ford,Explorer Plug-in Hybrid,Hybrid,457.0,825.0,225.0,6.0,53000.0,2,Premium
+Ford,Maverick Hybrid,Hybrid,191.0,210.0,180.0,7.8,25000.0,0,Everyday
+Ford,Mustang (2024),Petrol,450.0,570.0,250.0,4.5,60000.0,2,Premium
+Ford,Ranger (2024),Diesel,210.0,500.0,180.0,8.0,40000.0,2,Premium
+Ford,Escape Plug-in Hybrid (2024),Hybrid,221.0,210.0,190.0,7.5,38000.0,2,Premium
+Ford,Bronco (2024),Petrol,310.0,542.0,200.0,6.7,45000.0,2,Premium
+Ford,Explorer (2024),Petrol,400.0,563.0,230.0,5.9,55000.0,2,Premium
+Mitsubishi,Mirage,Petrol,78.0,100.0,170.0,12.0,18000.0,0,Everyday
+Mitsubishi,Mirage G4,Petrol,78.0,100.0,170.0,12.0,19000.0,0,Everyday
+Mitsubishi,Outlander,Petrol,181.0,245.0,190.0,9.5,35000.0,0,Everyday
+Mitsubishi,Outlander PHEV,Hybrid,248.0,300.0,170.0,10.5,43000.0,0,Everyday
+Mitsubishi,Eclipse Cross,Petrol,152.0,250.0,180.0,9.8,28000.0,0,Everyday
+Mitsubishi,ASX (Outlander Sport),Petrol,148.0,197.0,190.0,10.0,26000.0,0,Everyday
+Mitsubishi,Pajero,Diesel,189.0,441.0,180.0,10.5,45000.0,0,Everyday
+Mitsubishi,Pajero Sport,Diesel,181.0,430.0,180.0,11.0,40000.0,0,Everyday
+Mitsubishi,Triton (L200),Diesel,181.0,430.0,177.0,10.5,35000.0,0,Everyday
+Mitsubishi,Lancer Evolution X,Petrol,291.0,407.0,240.0,5.0,50000.0,2,Premium
+Mitsubishi,i-MiEV (Electric),Electric,66.0,196.0,130.0,15.0,26000.0,0,Everyday
+Mitsubishi,Xpander,Petrol,105.0,141.0,170.0,13.5,25000.0,0,Everyday
+Mitsubishi,Delica D:5,Diesel,145.0,360.0,175.0,11.0,40000.0,0,Everyday
+Mitsubishi,Colt,Petrol,150.0,180.0,180.0,12.0,20000.0,0,Everyday
+Mitsubishi,Grandis,Petrol,165.0,217.0,190.0,11.0,30000.0,0,Everyday
+Mitsubishi,Outlander Black Edition,Petrol,181.0,245.0,190.0,9.5,35000.0,0,Everyday
+Mitsubishi,Outlander SEL,Petrol,181.0,245.0,190.0,9.5,34000.0,0,Everyday
+Mitsubishi,Outlander SE,Petrol,181.0,245.0,190.0,9.5,32000.0,0,Everyday
+Mitsubishi,Eclipse Cross Black Edition,Petrol,152.0,250.0,180.0,9.8,30000.0,0,Everyday
+Mitsubishi,ASX Exceed,Petrol,148.0,197.0,190.0,10.0,28000.0,0,Everyday
+Mitsubishi,Triton Athlete,Diesel,181.0,430.0,177.0,10.5,35000.0,0,Everyday
+Mitsubishi,Pajero Final Edition,Diesel,189.0,441.0,180.0,10.5,50000.0,0,Everyday
+Mitsubishi,L200 Barbarian X,Diesel,181.0,430.0,177.0,10.5,35000.0,0,Everyday
+Mitsubishi,Space Star,Petrol,78.0,100.0,170.0,12.0,17000.0,0,Everyday
+Mitsubishi,Lancer EX,Petrol,148.0,197.0,200.0,10.0,25000.0,0,Everyday
+Mitsubishi,Montero Sport,Diesel,181.0,430.0,180.0,11.0,40000.0,0,Everyday
+Mitsubishi,Attrage,Petrol,78.0,100.0,170.0,12.5,17000.0,0,Everyday
+Mitsubishi,RVR SE,Petrol,148.0,197.0,190.0,10.5,25000.0,0,Everyday
+Mitsubishi,Delica Van,Diesel,145.0,360.0,175.0,11.5,35000.0,0,Everyday
+Mitsubishi,Lancer GLX,Petrol,115.0,154.0,190.0,11.5,20000.0,0,Everyday
+Mitsubishi,Pajero GLS,Diesel,189.0,441.0,180.0,10.5,50000.0,0,Everyday
+Mitsubishi,Xpander Cross,Petrol,105.0,141.0,170.0,12.0,25000.0,0,Everyday
+Mitsubishi,Eclipse Cross PHEV,Plug-in Hybrid,188.0,199.0,180.0,10.5,40000.0,0,Everyday
+Mitsubishi,Outlander ES,Petrol,181.0,245.0,190.0,9.5,30000.0,0,Everyday
+Mitsubishi,Montero GLX,Diesel,181.0,430.0,180.0,11.0,40000.0,0,Everyday
+Mitsubishi,Triton GLX-R,Diesel,181.0,430.0,177.0,10.5,35000.0,0,Everyday
+Mitsubishi,ASX Dynamic,Petrol,148.0,197.0,190.0,10.0,28000.0,0,Everyday
+Mitsubishi,Mirage ES,Petrol,78.0,100.0,170.0,12.5,17000.0,0,Everyday
+Mitsubishi,Outlander LE,Petrol,181.0,245.0,190.0,9.5,35000.0,0,Everyday
+Mitsubishi,Space Runner,Petrol,140.0,170.0,185.0,10.5,23000.0,0,Everyday
+Mitsubishi,Toppo BJ,Petrol,52.0,60.0,130.0,15.0,12000.0,0,Everyday
+Mitsubishi,Chariot,Petrol,140.0,170.0,185.0,10.5,23000.0,0,Everyday
+Mitsubishi,Lancer SE Limited,Petrol,148.0,197.0,200.0,10.0,25000.0,0,Everyday
+Mitsubishi,Pajero SWB (Short Wheel Base),Diesel,189.0,441.0,180.0,10.5,50000.0,0,Everyday
+Mitsubishi,Delica Space Gear,Petrol,145.0,206.0,170.0,13.0,35000.0,0,Everyday
+Mitsubishi,i (Kei Car),Petrol,64.0,94.0,130.0,15.5,15000.0,0,Everyday
+Mitsubishi,Dion,Petrol,135.0,181.0,180.0,11.5,18000.0,0,Everyday
+Mitsubishi,Airtrek,Petrol,160.0,214.0,190.0,11.0,25000.0,0,Everyday
+Mitsubishi,eK Space,Petrol,52.0,60.0,130.0,15.0,12000.0,0,Everyday
+Mitsubishi,eK X,Petrol,64.0,94.0,140.0,13.5,15000.0,0,Everyday
+Mitsubishi,Colt CZC Convertible,Petrol,147.0,210.0,200.0,9.5,30000.0,0,Everyday
+Mitsubishi,Galant Fortis,Petrol,154.0,200.0,200.0,10.0,22000.0,0,Everyday
+Mitsubishi,Endeavor,Petrol,225.0,343.0,190.0,9.5,35000.0,0,Everyday
+Mitsubishi,Grand Lancer,Petrol,138.0,173.0,190.0,11.5,25000.0,0,Everyday
+Mitsubishi,Sigma,Petrol,210.0,270.0,220.0,8.5,40000.0,2,Premium
+Mitsubishi,Town Box,Petrol,48.0,60.0,120.0,16.0,12000.0,0,Everyday
+Mazda,Mazda3,Petrol,155.0,213.0,200.0,8.9,26000.0,0,Everyday
+Mazda,Mazda3 Hatchback,Petrol,186.0,252.0,210.0,8.3,28000.0,0,Everyday
+Mazda,Mazda6,Petrol,250.0,420.0,240.0,6.4,35000.0,2,Premium
+Mazda,CX-3,Petrol,146.0,197.0,180.0,9.5,25000.0,0,Everyday
+Mazda,CX-30,Petrol,186.0,252.0,204.0,8.7,28000.0,0,Everyday
+Mazda,CX-5,Petrol,187.0,252.0,200.0,8.8,32000.0,0,Everyday
+Mazda,CX-50,Petrol,256.0,434.0,220.0,6.9,36000.0,2,Premium
+Mazda,CX-8,Diesel,187.0,450.0,200.0,9.2,42000.0,2,Premium
+Mazda,CX-9,Petrol,250.0,420.0,210.0,7.2,45000.0,2,Premium
+Mazda,CX-90,Petrol,340.0,500.0,240.0,6.2,60000.0,2,Premium
+Mazda,MX-5 Miata,Petrol,181.0,205.0,225.0,6.5,33000.0,2,Premium
+Mazda,MX-5 Miata RF,Petrol,181.0,205.0,225.0,6.5,40000.0,2,Premium
+Mazda,MX-30 Electric,Electric,143.0,271.0,140.0,9.7,37000.0,0,Everyday
+Mazda,CX-4,Petrol,158.0,202.0,190.0,9.6,28000.0,0,Everyday
+Mazda,CX-7,Petrol,244.0,350.0,210.0,7.9,33000.0,2,Premium
+Mazda,Tribute,Petrol,200.0,270.0,190.0,9.0,30000.0,0,Everyday
+Mazda,B-Series Pickup,Diesel,143.0,330.0,170.0,11.5,25000.0,0,Everyday
+Mazda,BT-50,Diesel,200.0,470.0,180.0,10.0,35000.0,0,Everyday
+Mazda,RX-7,Petrol,276.0,314.0,250.0,5.5,50000.0,2,Premium
+Mazda,RX-3,Petrol,110.0,145.0,180.0,8.9,20000.0,0,Everyday
+Mazda,323F,Petrol,105.0,145.0,180.0,10.5,18000.0,0,Everyday
+Mazda,Familia Sedan,Petrol,100.0,135.0,175.0,11.0,16000.0,0,Everyday
+Mazda,Premacy,Petrol,138.0,180.0,190.0,9.8,24000.0,0,Everyday
+Mazda,Demio,Petrol,108.0,142.0,180.0,10.2,18000.0,0,Everyday
+Mazda,Millenia,Petrol,210.0,280.0,215.0,8.2,30000.0,2,Premium
+Mazda,Eunos Cosmo,Petrol,280.0,300.0,240.0,6.0,50000.0,2,Premium
+Mazda,Atenza,Petrol,192.0,252.0,210.0,8.5,28000.0,0,Everyday
+Mazda,Roadpacer AP,Petrol,130.0,165.0,170.0,11.5,25000.0,0,Everyday
+Mazda,626,Petrol,140.0,180.0,190.0,9.5,22000.0,0,Everyday
+Mazda,929,Petrol,205.0,270.0,220.0,8.0,30000.0,2,Premium
+Mazda,Luce,Petrol,135.0,170.0,180.0,10.5,20000.0,0,Everyday
+Mazda,Capella,Petrol,110.0,145.0,175.0,11.2,18000.0,0,Everyday
+Mazda,Carol,Petrol,63.0,90.0,140.0,15.5,12000.0,0,Everyday
+Mazda,Autozam AZ-1,Petrol,63.0,85.0,140.0,11.0,18000.0,0,Everyday
+Mazda,Spiano,Petrol,54.0,80.0,130.0,16.0,10000.0,0,Everyday
+Mazda,Verisa,Petrol,113.0,140.0,170.0,11.0,18000.0,0,Everyday
+Mazda,MX-6,Petrol,164.0,215.0,210.0,8.8,24000.0,0,Everyday
+Mazda,MPV,Petrol,200.0,265.0,185.0,9.5,30000.0,0,Everyday
+Mazda,Proceed Marvie,Petrol,120.0,200.0,160.0,12.0,25000.0,0,Everyday
+Mazda,Sentia,Petrol,200.0,265.0,200.0,9.0,28000.0,0,Everyday
+Mazda,Cronos,Petrol,160.0,210.0,190.0,8.5,22000.0,0,Everyday
+Mazda,Scrum,Petrol,63.0,85.0,130.0,15.0,11000.0,0,Everyday
+Mazda,Parkway,Petrol,115.0,155.0,160.0,12.5,25000.0,0,Everyday
+Mazda,Titan (Truck),Diesel,130.0,300.0,120.0,15.0,30000.0,0,Everyday
+Mazda,CX-60,Petrol/Diesel,187.0,250.0,200.0,8.5,45000.0,0,Everyday
+Mazda,CX-80,Petrol,250.0,400.0,210.0,7.5,50000.0,2,Premium
+Mazda,T1500,Petrol,75.0,105.0,120.0,18.0,18000.0,0,Everyday
+Mazda,Bongo Van,Petrol/Diesel,100.0,140.0,160.0,14.0,22000.0,0,Everyday
+Mazda,Bongo Friendee,Petrol/Diesel,115.0,160.0,160.0,12.5,24000.0,0,Everyday
+Mazda,Revue,Petrol,75.0,110.0,130.0,15.5,12000.0,0,Everyday
+Mazda,Protegé,Petrol,125.0,170.0,185.0,9.0,18000.0,0,Everyday
+Mazda,Xedos 6,Petrol,170.0,230.0,215.0,8.5,30000.0,0,Everyday
+Mazda,Xedos 9,Petrol,200.0,260.0,220.0,7.5,35000.0,2,Premium
+Mazda,121,Petrol,70.0,110.0,155.0,13.0,15000.0,0,Everyday
+Mazda,1200,Petrol,60.0,90.0,130.0,16.0,12000.0,0,Everyday
+Mazda,1500,Petrol,85.0,120.0,145.0,14.0,15000.0,0,Everyday
+Mazda,RX-2,Petrol,130.0,220.0,185.0,8.5,25000.0,0,Everyday
+Mazda,RX-5,Petrol,135.0,210.0,190.0,8.0,30000.0,0,Everyday
+Mazda,RX-7 Spirit R,Petrol,280.0,290.0,250.0,5.5,40000.0,2,Premium
+Mazda,Cosmo Sport (110S),Petrol,110.0,150.0,170.0,10.0,35000.0,0,Everyday
+Mazda,Eunos 500,Petrol,135.0,170.0,200.0,9.0,28000.0,0,Everyday
+Mazda,Eunos Roadster,Petrol,116.0,140.0,180.0,9.5,18000.0,0,Everyday
+Mazda,Familia Astina,Petrol,135.0,170.0,200.0,8.5,22000.0,0,Everyday
+Mazda,Savanna RX-7,Petrol,165.0,230.0,230.0,7.5,32000.0,2,Premium
+Mazda,Capella Cargo,Petrol,115.0,160.0,180.0,12.0,22000.0,0,Everyday
+Mazda,818,Petrol,100.0,130.0,170.0,12.5,18000.0,0,Everyday
+Mazda,Sentia Hardtop Coupe,Petrol,160.0,220.0,210.0,8.0,35000.0,0,Everyday
+Mazda,Biante,Petrol,150.0,200.0,185.0,10.0,26000.0,0,Everyday
+Mazda,Premacy Hydrogen RE Hybrid,Hybrid,200.0,260.0,180.0,9.5,45000.0,0,Everyday
+Mazda,Carol P360,Petrol,26.0,45.0,85.0,35.0,10000.0,0,Everyday
+Mazda,T2000,Petrol,110.0,160.0,170.0,12.5,20000.0,0,Everyday
+Mazda,AZ-Offroad,Petrol,85.0,130.0,145.0,12.0,18000.0,0,Everyday
+Mazda,Scrum Wagon,Petrol,64.0,95.0,120.0,15.5,12000.0,0,Everyday
+Mazda,Persona,Petrol,92.0,130.0,160.0,13.5,16000.0,0,Everyday
+Mazda,Astina,Petrol,140.0,160.0,190.0,8.5,24000.0,0,Everyday
+Mazda,Etude,Petrol,105.0,135.0,170.0,10.0,16000.0,0,Everyday
+Mazda,Porter,Petrol,95.0,130.0,130.0,14.0,15000.0,0,Everyday
+Mazda,MX-3,Petrol,130.0,140.0,190.0,8.5,22000.0,0,Everyday
+Mazda,MX-5 Superlight Concept,Petrol,143.0,160.0,200.0,7.5,35000.0,0,Everyday
+Mazda,Premacy Hydrogen RE,Hybrid,200.0,260.0,180.0,9.5,45000.0,0,Everyday
+Mazda,Bongo Truck,Petrol,120.0,150.0,130.0,15.0,18000.0,0,Everyday
+Mazda,Rotary Pickup,Petrol,130.0,160.0,150.0,14.5,22000.0,0,Everyday
+Mazda,Luce Rotary Coupe,Petrol,135.0,180.0,175.0,12.0,30000.0,0,Everyday
+Mazda,Millenia S,Petrol,200.0,250.0,220.0,8.0,35000.0,2,Premium
+Mazda,787B (Race Car),Petrol,700.0,500.0,320.0,3.5,7000000.0,1,Sports & Luxury
+Toyota,Crown Signia,Hybrid (Gas + Electric),240.0,239.0,180.0,7.6,48000.0,2,Premium
+Toyota,4Runner (6th Gen),Hybrid,326.0,630.0,180.0,6.8,50000.0,2,Premium
+Toyota,Corolla Cross,Gas / Hybrid,196.0,210.0,190.0,9.2,29135.0,0,Everyday
+Toyota,C-HR+ ,Hybrid,198.0,205.0,180.0,10.5,33000.0,0,Everyday
+Toyota,RAV4 (6th Gen),Hybrid / Plug-in,302.0,400.0,200.0,8.1,43000.0,2,Premium
