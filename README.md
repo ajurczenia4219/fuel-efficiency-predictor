@@ -67,5 +67,5 @@ Python · pandas · scikit-learn · XGBoost · SciPy · Plotly · Streamlit · p
 
 ## Data sources
 
-- `car_data.csv`: car fuel economy data (city, highway and combined MPG) for 2014–2024 vehicles, from Kaggle (add the dataset link here).
-- `cars_2025.csv`: *Cars Datasets 2025*, from Kaggle (add the dataset link here).
+- `car_data.csv`: car fuel economy data (city, highway and combined MPG) for 2014–2024 vehicles, from Kaggle https://www.kaggle.com/datasets/arslaan5/explore-car-performance-fuel-efficiency-data.
+- `cars_2025.csv`: *Cars Datasets 2025*, from Kaggle https://www.kaggle.com/datasets/abdulmalik1518/cars-datasets-2025.
