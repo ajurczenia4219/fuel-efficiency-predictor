@@ -2,7 +2,7 @@
 
 Predict a car's **real, measured fuel economy** from its specs, and group 1,200 car models from 2025 into **market segments** with K-Means. Everything runs in an interactive Streamlit web app.
 
-**Live demo:** [https://fuel-efficiency-predictor-ynkadaad3zmwgyycbksavk.streamlit.app/](url)
+**Live demo:** [https://fuel-efficiency-predictor-ynkadaad3zmwgyycbksavk.streamlit.app/]([url](https://fuel-efficiency-predictor-ynkadaad3zmwgyycbksavk.streamlit.app/))
 
 ![App screenshot](docs/screenshot.png)
 
